@@ -143,6 +143,9 @@
     "/artists/raymond-ramnarine/catalog/",
     "/artists/sekon-sta/catalog/",
     "/releases/shal-marshall/ishal-1642133413/",
+    "/releases/farmer-nappy/big-people-party-1642068139/",
+    "/releases/jus-now/way-up-ep-1178703592/",
+    "/releases/nessa-preppy/little-miss-arima-1778869277/",
     "/genres/cadence-lypso/",
     "/genres/calypso/",
     "/genres/chutney-soca/",
@@ -204,6 +207,16 @@
     "/songs/signal-band/for-de-karnival/",
     "/songs/trilla-g/congratulations/",
     "/songs/triple-kay/ftm/",
+    "/songs/blaxx/colours/",
+    "/songs/david-rudder/calypso-music/",
+    "/songs/denise-belfon/work/",
+    "/songs/denyse-plummer/identity/",
+    "/songs/iwer-george/the-people-and-iwer/",
+    "/songs/lord-kitchener/london-is-the-place-for-me/",
+    "/songs/mical-teja/dna/",
+    "/songs/ricardo-drue/homesick/",
+    "/songs/shal-marshall/splinters/",
+    "/songs/superblue/fantastic-friday/",
     "/songs/",
     "/",
     "/artists/",
@@ -276,1884 +289,1975 @@
   "routeMetadata": {
     "/releases/bunji-garlin/turn-up/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/turn-up/",
-      "contentHash": "54408036603e041283ca2cf4b6e061dd9b75e15cdd5d287c137d98fd9bd69253",
+      "contentHash": "58155fc433a79622ca90a376eace989e377a90e561f684a37a60e8123e9479ea",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/differentology/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/differentology/",
-      "contentHash": "63f28309a6446ebb28e367abcdf42d781c1b0e1b5328775c7479062ce4b93696",
+      "contentHash": "2373ea459b19dd8ea2151d1692e47493bc662a6192744b05e8aba45d3eafd8c6",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/global/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/global/",
-      "contentHash": "21393f9887f53857d2e2eb9002a8e3cc094e7c6c4c49d1f654b5d153f57ff0e9",
+      "contentHash": "b0abfa4e47f7286d0abaef76d3f673b225e3cc7a870ea6c0b4a2d741f3c675b9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/revelation/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/revelation/",
-      "contentHash": "9daa11044eb740801ac467b1db02fa65999fc8b98b9a2353496691646cc7a5df",
+      "contentHash": "53808ec38a2ace21ced51a5f9ee5f3cc568267807478ad7f99172f0556c4029a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/aylian/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/aylian/",
-      "contentHash": "1abf5b11240307c51a830bd287fdfd671ea76a51ed22e66d4b11ee26b7690e1d",
+      "contentHash": "b87e276e8259a4c31932a36cb3ce09cf5a1f5014a57a80799e3bb826bd478dc2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/triple-kay/riddim-chant-vol-1-dat-iz-kanaval/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/triple-kay/riddim-chant-vol-1-dat-iz-kanaval/",
-      "contentHash": "e1916baca6c48b6d33f4da1e1e52c4fd333601d28c8b7ba38a9937c7234ed677",
+      "contentHash": "1f0c4361be3e843edeb2b02a99355e324e180b18d861e94c5c716cb0ab74153d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/triple-kay/heat/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/triple-kay/heat/",
-      "contentHash": "350cfcf0aded95de371e7b07ea4f5f64fca7e89f52f91643079f109463cbb5da",
+      "contentHash": "6a7f2d83723a1722072516f6da60a8509d2f34c1e3854a1492189c2c28a0e397",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/triple-kay/still-standing/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/triple-kay/still-standing/",
-      "contentHash": "f4444f67ee9af8f21ad7335005ea179e8910115a004ffed1d77b5a5194e58d68",
+      "contentHash": "daf292c8860a21b8d79d0d0dd12b4c788dc009b54e3dde4389f646294fb769ff",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/",
-      "contentHash": "f261259a64be16a3053aec1498cbd75319dee9e09697675897e122bdaa832745",
+      "contentHash": "b62b058b2522d76f16f3616c0938ccf7a19d19c56e52aebe8143d4152ef04ff9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/asa-bantan/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/asa-bantan/catalog/",
-      "contentHash": "c6ae04f3d13d452cf41da79b77e81ad96be689e61939d5e09aabc480dc466d76",
+      "contentHash": "ced3150730e1b860f6c39e5bf7ef83b9d5ab2d44500d8503b27c2ff43e382c7e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/asa-bantan/asa-bantan-greatest-hits-vol-2-1536262012/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/asa-bantan/asa-bantan-greatest-hits-vol-2-1536262012/",
-      "contentHash": "2c545bfb4ec3233c7d467a9d7300a57fb89a193980e492279b8c5ab51918f949",
+      "contentHash": "c8db5459caca324d9534737cd946133a14090796f82967d6faccd1df06706fce",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/asa-bantan/di-bouyon-hot-vol-3-1692601881/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/asa-bantan/di-bouyon-hot-vol-3-1692601881/",
-      "contentHash": "dc3af0c6126f19368fd103529491c094456e74f4561d556c53dfe9a078ab7596",
+      "contentHash": "07b2f4a6af37d5854dfc71d1202642411ccce8700a00e430641522e0787002fe",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/asa-bantan/play-mass-feat-zone-rouge-2b66b1d0fe/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/asa-bantan/play-mass-feat-zone-rouge-2b66b1d0fe/",
-      "contentHash": "2be8a73c6f466d742c2661d4319cd5b5b7042f6f1f36e0e3cc42113429d87b57",
+      "contentHash": "66f033632317b5a46c2b44697207a1f1f2cc66cba84dbe3b359f29837e6339f7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/asa-bantan/don-t-leave-aad4b3ceca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/asa-bantan/don-t-leave-aad4b3ceca/",
-      "contentHash": "941370617deb0d8c1fe5b054fcb0a6129d9a53304040b0f3367f4244713f479c",
+      "contentHash": "d3e6de23212cc50ec1c1f2eca17f564360bc03bcb45ef9464fade12dd08d0d2e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/machel-montano/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/machel-montano/catalog/",
-      "contentHash": "fe487eeef8695a1fbefdd47c0be3f591c227e9e030cd5d4c66553311548a7f2b",
+      "contentHash": "7c3f7a2a6e2cc81fa3934320db60f47f1455b99cb1b3240a780a324dd71ca9a4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/g-o-a-t-1701433797/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/g-o-a-t-1701433797/",
-      "contentHash": "1864146de571500e33f2d5152656f7e78f96ce2ada45229a48e699b06299f1c0",
+      "contentHash": "3bd3ba484f12be74136c4214cdd8891ffc993e328fa312d3f3e9963523a63487",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/charge-1702736150/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/charge-1702736150/",
-      "contentHash": "a625b254794ec18056bb75bf065ad1ea2b675ea8fe5172e3752da8a3f83bcef4",
+      "contentHash": "ca87655906ea84532e6bdd14f1f2373dd7fed7ac3b3056045231b052eef01537",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/bazodee-original-motion-picture-soundtrack-1704021641/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/bazodee-original-motion-picture-soundtrack-1704021641/",
-      "contentHash": "eb3ebe53ce010999379cc3f30dde53e98376db020c7bcedb4b16d9dcd5188b25",
+      "contentHash": "e79bdb07036ecdec26595f39e122270bc4e2e30651ca874e091d76af09a65c83",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/the-wedding-album-1701430887/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/the-wedding-album-1701430887/",
-      "contentHash": "4003e91413a23359e4dca821e4717fbf2e46c6c239dece36a5c79a768b3b4dab",
+      "contentHash": "2bfba97e059cf85f98c7272eecade76c6d042db531a76e91b74efc832f236e3b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/one-degree-hotter-1798848700/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/one-degree-hotter-1798848700/",
-      "contentHash": "a38a0eb2177b523b292a5df5351a0ff0600401c228766879601f8952911085b2",
+      "contentHash": "61f8a7ecfe735d8ce88f97932596b034cc3fdd4897483f092d5ed36fa27d2766",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/the-xtatik-parade-1702737161/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/the-xtatik-parade-1702737161/",
-      "contentHash": "451cab7b0441cf8e5f7219f368a7522c951725b59760cbd34001d88e065f47f3",
+      "contentHash": "4313efa78228e8ad3d265ffb0a79146e5e50e8dd7a76bbe9993632504b78ed3a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/album-34-1702738060/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/album-34-1702738060/",
-      "contentHash": "eb5c6a5438c67084eacb9c37cdf18e948b3e782f8d72cb450ceace538dd0b42a",
+      "contentHash": "9538111913c7f26b0c52f6a3cf408aabcf08f713dd3a27e69ad127cb9b0fbdf7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/any-minute-now-1702744240/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/any-minute-now-1702744240/",
-      "contentHash": "65f0d28b8f561fa101515f044e64b69405835d64560daaf4c905a2e285535a1a",
+      "contentHash": "87baface09f374bb3153dc474c41d15ef0aa6cd3f997049d223213530d8c961b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/heavenly-drum-1702745932/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/heavenly-drum-1702745932/",
-      "contentHash": "1e7fdd6d3b280412bf2da7470151f4777f007a478176dd4017c25b1800888c57",
+      "contentHash": "a9f95e3cd0f2ad2ab4b31be76e4a53c0edfedea10a0c645c40b6f503a2a4cb57",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/the-xtatik-experience-1702740902/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/the-xtatik-experience-1702740902/",
-      "contentHash": "aeb772b02b405937f4fa6ae3e505699d1c4d3fab288eeff00597ea9deeec2de1",
+      "contentHash": "b816aed79a38ffacc6120609604d3825938e4d6fcb947489b795db9f181d71f4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/heavy-duty-1704017196/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/heavy-duty-1704017196/",
-      "contentHash": "385f8de94c705c17fd94d6d2bf6323af0998954f2fe3df102495e1bec0d1556b",
+      "contentHash": "cf0f0b1cde2ec7df85bff6532599317ab92f9f761158506f5d6e69d8dc12f3ae",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/b-o-d-y-band-of-d-year-1710259640/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/b-o-d-y-band-of-d-year-1710259640/",
-      "contentHash": "0c029b5818ef1417eca36c9399a6fd6144733db55a7287e85db151d64b408eca",
+      "contentHash": "4400803dfbe0689923bb403356d49ca987f97c797a666fed590e15ffd2ed633c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/monk-monte-1701434120/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/monk-monte-1701434120/",
-      "contentHash": "729a9a81b951d45a6050eba1f1b0826eb7675a207de1bee3fa8516ac8f5dd429",
+      "contentHash": "8b6a44c7c48c442b6568e09a009899b9000ab7c63ebcfe68091ec247de9c3fa9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/happiest-man-alive-1701434526/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/happiest-man-alive-1701434526/",
-      "contentHash": "f0fae430163fcf7dbc96b0e7fbfa799d90cbbbd52407f7ce56e26a996e17b1de",
+      "contentHash": "8c72f83cd53a3b8545882e0ab4ca06361347ad7c799b80ca05443269e5f5d25d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/machelements-vol-1-1701434728/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/machelements-vol-1-1701434728/",
-      "contentHash": "54e0863205b0d93f03a1a3db90012931f1a035128bf326de6e07043515558e9d",
+      "contentHash": "3768c0dada7d5f7c3b8dfff8fcaa3bfef310550a39b69831e716a0aba6803204",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/the-return-1702738743/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/the-return-1702738743/",
-      "contentHash": "0948c0e14ec9b99765b46400923de1dcfce907c039176ec8f8a42327cbcc3e9b",
+      "contentHash": "116188a76d07886305396a9d0bc9160b479d122190ccc968b81ded61533d8b3a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/trilla-g/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/trilla-g/catalog/",
-      "contentHash": "2990e41c7c3d8f6960fe5981540044008c7239c5e0370fcb2ee87f167928cd4d",
+      "contentHash": "a1f6614ffb3393c8dbb7945228b39f4f4c63ae8462948f79b85f89e8c323c14e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/trilla-g/take-me-as-i-am-the-album-1848127466/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/trilla-g/take-me-as-i-am-the-album-1848127466/",
-      "contentHash": "61211dcb9f92e2bd4cc54f2832fb555c77fa76cd0d1cffb970b5cf6fbe864065",
+      "contentHash": "56456c7241a43a6d1864f463692c16bf2709a3721e0610381641235feff81eb8",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/triple-kay/dark-knight-riddim-single-1669264489/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/triple-kay/dark-knight-riddim-single-1669264489/",
-      "contentHash": "7c8da3da1c4454ae4c4ad5bcfa12d4331988564fa7ec2a78360a6f92cc4556ac",
+      "contentHash": "ca2377388cb56ca9215a387c2e624fc7bfa636cd6f277109a54b17b4953efd69",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/asa-bantan/asa-bantan-greatest-hits-vol-1-1459037517/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/asa-bantan/asa-bantan-greatest-hits-vol-1-1459037517/",
-      "contentHash": "3aeff7c79487a0c3371084ccf2085116c6e6c3353d414d288acd4d5e5c572ebb",
+      "contentHash": "06ce47c48f5540e2ce636b24fb45ae9566d99f2a7e5e216d6b1bd9fe0135f4f1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/2000-young-to-soca-1863816581/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/2000-young-to-soca-1863816581/",
-      "contentHash": "d2ee38ce838347a533e714904e7c8b20b69e48c420598d89e0335d468dfbe280",
+      "contentHash": "f9ca1a936cad996640553c84d66e3d54225f51cd69cdda87dbd85821b9492a93",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/the-book-of-angels-1702737006/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/the-book-of-angels-1702737006/",
-      "contentHash": "158f228b43314c9421654b175c4011e22c6807c293b90f39c537008d89058d21",
+      "contentHash": "7e7b86124a7f4d20a14193cc921aba3791f7960513ce0949608ce685277e07d0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/encore-1874434063/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/encore-1874434063/",
-      "contentHash": "43d1bce95ab8e92207deb18a7f0581fde83dc54502039c1d87eff3e8888e1d27",
+      "contentHash": "476cdcd456beec55d2ccb26de8469593ad823cea7d32d2bcce1265826563085b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/machel-montano/monk-evolution-1701175372/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/machel-montano/monk-evolution-1701175372/",
-      "contentHash": "0e5c6edca337b2978f09f3d25837925f4bd50b2b002a25f9a551f2db14426726",
+      "contentHash": "f1848e1f99983bd787c2f00142eb29580be02980318f9ba6bdc98fdcdb55a74c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/bunji-garlin/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/bunji-garlin/catalog/",
-      "contentHash": "5755f30eb0e4663bce9d0090043351286de4e8833116b44e2c9b32e34bde2125",
+      "contentHash": "94b4a51bfe3918cb989491a7d85b4b647df6cce7f5af6cfdef3b9fa3e886bedf",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/ispaniard-516428371/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/ispaniard-516428371/",
-      "contentHash": "c948277f3cf8f1b3d7c505df55480178f01ebfd3d5c8ab79b47d8b0e7813730c",
+      "contentHash": "047b80cb51055b805cfbb2671f6934b63dd7a92dec812e4f4c154933b19e2c97",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/carnival-contract-riddim-the-road-mixes-1730133277/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/carnival-contract-riddim-the-road-mixes-1730133277/",
-      "contentHash": "7418659a5bb904b1930387c6599e0f0c109488c021bbf481dea552ad174f7980",
+      "contentHash": "951342e7bdd3be8a62b9523f2b3cc4fe79ee91ac78e2b620e38563ee13417d4c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/fanny-j/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fanny-j/catalog/",
-      "contentHash": "ee603b7b774531565518925c697af37ff199c83ed6cac392593ad2fc1c332e2a",
+      "contentHash": "72e205bb86be6710637be9f50f90fdfb6d6b755416caac8256fe5305f4916d6f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/fanny-j/vous-les-hommes-980124599/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/vous-les-hommes-980124599/",
-      "contentHash": "6446bf359093ff4c93a2b3f678289e242e03a23e5a65bb05f5a66c12cb2ac50c",
+      "contentHash": "97cc3ae8efd1900029bcb33d6f6f3f054d4cbad802322d2325440b9695177c4e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/fanny-j/l-effet-papillon-acte-i-chrysalide-6818148519/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/l-effet-papillon-acte-i-chrysalide-6818148519/",
-      "contentHash": "600b149b91dbd81ac6931b217906e6908d0c161efe764cd41a6adb84735d3198",
+      "contentHash": "8441017e3f3526fb5a44b6235e323d3f1b4c78b6fcbf9b29acef7f836ab2769f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/jocelyne-beroard/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jocelyne-beroard/catalog/",
-      "contentHash": "c873b789d1e36300bcad9faef04008961cdd239836605697b56018ef73339a07",
+      "contentHash": "dc4d2e67e6e9bb932b2fd5698f197282f633450a61e2559bbd8a6ea67086ad85",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/jocelyne-beroard/chawa-live-aux-folies-bergere-1713782340/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/chawa-live-aux-folies-bergere-1713782340/",
-      "contentHash": "35ae601afbe46e64bca4ac364986dbd5e8fa0491cd6fe7d1a70742294cff2ac6",
+      "contentHash": "09d455b0c4f57b88d8bfeea92fab37ae7ef497a5b6bae111cfa0e5028d55c4c4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/jocelyne-beroard/milans-1582503313/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/milans-1582503313/",
-      "contentHash": "16f91c71e6f8864d079443b9e80cc968c178bfc16ba267e02e85fa61ee922ed0",
+      "contentHash": "844de5744d4a1245e1510886cfa0e2b9cf568db8e71d871b952ba16c13aa5f46",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/jocelyne-beroard/siwo-1024433909/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/siwo-1024433909/",
-      "contentHash": "4aa9bbf95fd1e33ba442dd26c2875c021420a65383ff44fe641d88833b2e7b87",
+      "contentHash": "deede7b4ef269f181298a4496263ed54bbcad8f370edb5ec1601969fa570a6be",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/k-reen/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/k-reen/catalog/",
-      "contentHash": "3e510c5b98fde24e34527633da9f323d4ea5c96da3dc8cf171f3a2d7d80fe113",
+      "contentHash": "cb363519eed09373e058d964bac28beb07a817f77ec47e9818cba895a96cea0c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/k-reen/racines-k-raib-973389038/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/k-reen/racines-k-raib-973389038/",
-      "contentHash": "ccf73fbec4b6fb7583647f4f8ecae94bb7dece0ad8f2d706fb441aebe6a52507",
+      "contentHash": "b22723b904a7c8db961f4d725111c01c9a4478cc247af530fe93e045f58ec6f2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/k-reen/himalaya-506393498/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/k-reen/himalaya-506393498/",
-      "contentHash": "35337641c18fa729f24471e608a61cfffacb9ed6c60d838e29c2e7453965d31a",
+      "contentHash": "ee363827ae460c48305ac817e724d7de679af07b172a3dedd70cb1d6a9970a87",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/kassav/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kassav/catalog/",
-      "contentHash": "d96927073d65989add249831f6b69f99a3a491ea11e8dafb11a47a1b122f192d",
+      "contentHash": "afb245e99744b2070ae9602afedfdf531cf8d3dca752bfc35b81330debed8964",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/40-ans-1459868556/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/40-ans-1459868556/",
-      "contentHash": "b4592e6d0d10600eed29229b342887362fd2cb771fcc96f3fb6304ab519d472b",
+      "contentHash": "30be7d5f350cd455f4a672aa6ef4dc09af46afc57ead961c1b1c6df6a3c3882a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/live-au-zenith-de-paris-2016-1178920421/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/live-au-zenith-de-paris-2016-1178920421/",
-      "contentHash": "9b9c659f27cbfcb3c471cad1f62a487e149866bd53bc383fc2fb88194ee2479a",
+      "contentHash": "8f30027385e86684c78c09894861b62698f0bf4d127da800482fabcf1163af54",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/best-of-20eme-anniversaire-1676625206/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/best-of-20eme-anniversaire-1676625206/",
-      "contentHash": "6efd1005ab95fdb930907dcaef41cd7a962e789abe17861cc07bf636e08a90b1",
+      "contentHash": "524a7a015e7205d82b046582e46cdf1dde2d0dab573af8f69973c959f5c48c53",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/kes/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kes/catalog/",
-      "contentHash": "0b346a1cd42ac971a2ba3d58934e2dd87cc73d473874a16f5a56b9e918c80b99",
+      "contentHash": "d04d2c09ae4f8fd82f7232dee1b869d5799144a0f280e2311d749480e53878dd",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kes/man-with-no-door-1729234953/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/man-with-no-door-1729234953/",
-      "contentHash": "fdc7d5fa1b818303a37b7b1f58deccc205c0fda3b76669d6d14b5403bd19dfcf",
+      "contentHash": "98f0bd65c6b2f532d92cada5ba45894a0b0d0a11166df52975988253ce720af1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kes/we-home-1525759480/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/we-home-1525759480/",
-      "contentHash": "5a1fcd2a4d5f1d3c2a4352ffc2df8e2ec5425a6bc755f6c76c9b694deba50954",
+      "contentHash": "5390714eda83587ccdf26a11edfa06dd3b8dd3461e4513465aaa3d2b6e5b82a1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/patrice-roberts/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/patrice-roberts/catalog/",
-      "contentHash": "f81b7b9029cf0194d25459daae4a95ebb30070db10164dd627016825f29a0dc8",
+      "contentHash": "1b72c8d86af67e2000178631980361298f913e9182b784de83372fa4bdbafcd8",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/patrice-roberts/blossoming-1800170057/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/patrice-roberts/blossoming-1800170057/",
-      "contentHash": "66661df1e39026f6a6ac1cab98d3add6a124ee717e95cd253367e4cd6f752f01",
+      "contentHash": "a313e84003e536075055a3fee22fd6a3b24db32ff13f525b2e59e1ab9a44f7a2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/patrice-roberts/like-yuh-self-roadmixes-ep-1675556570/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/patrice-roberts/like-yuh-self-roadmixes-ep-1675556570/",
-      "contentHash": "fd1f1ddc2507583cb8570eba1ac552b2630f5627fcf91c1ad35bd0d48593fff9",
+      "contentHash": "46ce5fdfd945a926848e559baec8e9fc36baec3a6b20f6ef8a898691ccf6c0dd",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/apple-music-home-session-bunji-garlin-1638189526/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/apple-music-home-session-bunji-garlin-1638189526/",
-      "contentHash": "730cb8cf6369985445a1c2fd14951419286e6aeb51e5ccadc2f0e127613fdc01",
+      "contentHash": "648a7448ffc7b94a6d580d08c530f00f310d39a10ca9c318bab7aa4a95fa9752",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/fanny-j/secrets-de-femme-407520986/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/secrets-de-femme-407520986/",
-      "contentHash": "5fcde9ac04668be421582681907b56ca21f20c742b0966691fc2576ee2a6951e",
+      "contentHash": "92a7aac8df8729176c9f062ae0ed1118c8ddbb89ed0bc7b91011791c414b1f61",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/fanny-j/mes-verites-1467479802/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/mes-verites-1467479802/",
-      "contentHash": "d37c046808a89f99d7ca696de647a3955f20c4cf2115d9718456d8590d0e920f",
+      "contentHash": "5ce9b4ee090ecc3569c717e79842e2242e9fe0267487a54c6becb2f78bc903fd",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/fay-ann-lyons/break-the-world-1207331237/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fay-ann-lyons/break-the-world-1207331237/",
-      "contentHash": "f447ee710602b5095ee03d8fe000ce81eb4d8f66db61e3ad7db7cf5c20d4e14f",
+      "contentHash": "78768d5f4860ce6937245340d9fcee0afae18e306f7e2d68e498f303ae3ebd27",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/jocelyne-beroard/madousinay-1024434350/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/madousinay-1024434350/",
-      "contentHash": "f6af49130a3a38722b1ee11f936388831ee5929004ac9f075239d0db5ee266b2",
+      "contentHash": "58b4b0c31559fee429c146781531d04ac981c751de15c49d2fa0832f1967b301",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/kassav-30-ans-live-au-stade-de-france-1022973049/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/kassav-30-ans-live-au-stade-de-france-1022973049/",
-      "contentHash": "7c9506da239f2d5d065daa989e5edc4c2a3197001f865fc716911e5f52d22c46",
+      "contentHash": "69383921d6c895ba6ea480bcd835a98bc424287bea2f2cbf5ce481ff14d59f74",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kes/on-in-5-313563376/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/on-in-5-313563376/",
-      "contentHash": "97f134658a3f88c372b73591cfe8c2d9c09403e6dfcf83cc26af9c1ab5ef1657",
+      "contentHash": "add1143b3e68502da28ddd6cf18f797a1251c4d6a0b5e28c08f04895443acf87",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/mighty-sparrow/first-flight-early-calypsos-from-the-emory-cook-collection-151049657/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/mighty-sparrow/first-flight-early-calypsos-from-the-emory-cook-collection-151049657/",
-      "contentHash": "f43666ccac0ce0a1c464290e96719925390a62615cabd8087a8ce8f3cf424e6d",
+      "contentHash": "e1ee0260bc6310c296ce58a530445ef6ab5c11503224ac4033649c151eefd666",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/bunji-garlin/ready-for-the-road-ep-852184357/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/ready-for-the-road-ep-852184357/",
-      "contentHash": "bf861c7ed7f036ab8475f0305a9ea57c6dc397cecb32cf28b8aaa38a38da4f5c",
+      "contentHash": "08f57a6157ba25f721c91e6b6dd7e82b1a5d5c60d08b37576867321e7cb022e0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/jocelyne-beroard/yen-ki-lanmou-1043594818/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/yen-ki-lanmou-1043594818/",
-      "contentHash": "a595dd79c69a392900cfd54e2a211bad44b3eb99f50290abe0d1ddddcf23d64a",
+      "contentHash": "17ef862b7e54abcdcc99124d484868681d8dda267a9eacb266f0100816416f0c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/k-reen/fini-les-foutaises-1606405460/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/k-reen/fini-les-foutaises-1606405460/",
-      "contentHash": "46f94e19c91218d55d4a2d73c8fedfb154b926a36191bd1bf815aafc5434ebd8",
+      "contentHash": "207eb6b12ad620b640c2ca51ae7c98a461bd176eb93a9acd2b445130a1e7e2df",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/chire-douvan-best-of-1110000757/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/chire-douvan-best-of-1110000757/",
-      "contentHash": "d6017e88ccb26ce8cca1abc61c26aef8343867b27becf80436153aefadd39878",
+      "contentHash": "9269857b8ac0894d164918e417ae5bde49389fc26b844eed9cae451644526a86",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/40eme-anniversaire-live-at-paris-la-defense-arena-1498764828/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/40eme-anniversaire-live-at-paris-la-defense-arena-1498764828/",
-      "contentHash": "f6ece715ebcb20278a1bffba2bace56a447a9d5466acb27a912a6222ee4b1edc",
+      "contentHash": "59d2495b8242152a9c2642a314b67867c30d073f55ac57ceccaaf781c204b0db",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/se-w-nou-enme-le-concert-1779842866/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/se-w-nou-enme-le-concert-1779842866/",
-      "contentHash": "c9d1cdc633b4a599dc32fb6fcd9a9c82ce07f38fac851192766d35f2e7c14a5e",
+      "contentHash": "4c815b498391b7e0511d5ed6e7ac459c3e81f2c54aa1f1da962b1c5b8c889f9b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kes/wired-507643551/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/wired-507643551/",
-      "contentHash": "a1d885cde7fe9e611deb1e8971d7c4140da10f601ae70bfed461314849ddd23e",
+      "contentHash": "c0d948af018ed0b93e6f4b00197ab318b51359ae201219787f7411baa03c4a37",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/patrice-roberts/rocket-fuel-riddim-ep-1629652869/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/patrice-roberts/rocket-fuel-riddim-ep-1629652869/",
-      "contentHash": "8662aa8f984406733e2f29c944b6fd05319d420bd158d423e69954a04e4c6dc2",
+      "contentHash": "15ae8b76d68f6422c79d0569d625004fdb1535cfa94216fa44349b0fd1e7799a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/nou-la-1676615586/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/nou-la-1676615586/",
-      "contentHash": "0aa4f0b2a9b38f9b503aa9fb0522ab7879ff8f425bbb730dea776a3441cf39ca",
+      "contentHash": "9fba810cf8f53c7b0e55787f9fa88507206227fbdd39b24ea69e5a9d9480f286",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/all-u-need-is-zouk-1022019786/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/all-u-need-is-zouk-1022019786/",
-      "contentHash": "76f550508c89d66529c3c5d7623d32a1ef897f7129fadac9c267ee15cbcc55ca",
+      "contentHash": "31ae375766f3156550048fd52557eb15b8829978615fad98e812cacc80dd1311",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/ktoz-1022951055/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/ktoz-1022951055/",
-      "contentHash": "6cec1176f2d00c6f85e521af9b1c686a368412d224c3ce63dd796400ddb94bc4",
+      "contentHash": "a69d67522547819520c33f365c362020855818c2ee40afb7acff5e35504efc00",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/dife-1676625407/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/dife-1676625407/",
-      "contentHash": "f425387adda01acad13d4ad459bf7e34ee013cc9f0a026af22bad1e2d54348aa",
+      "contentHash": "a979d8d83b5e8ed6ee886b414ec9c4f6adfcb825725dfa06bb8bb4f85ed4225b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/sonje-979963646/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/sonje-979963646/",
-      "contentHash": "0c2a49df668c08c23f2d87165dbf92031b94aa9f48424ecea144aa3fe21c7ac6",
+      "contentHash": "631cf9bf986171cdb8944390e3e0c3d9189ce26d4d937c9787e9199c6d7dc159",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/vini-pou-1676617781/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/vini-pou-1676617781/",
-      "contentHash": "c6a9df1b82b871329afa4e5da4f45c7f62c156f39cd2db563b6ab6b332599061",
+      "contentHash": "622ff79c66f7fd925c9ac20114d535bf27bc0092cd2329145fd1c924318fd61e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/tekit-izi-1676614141/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/tekit-izi-1676614141/",
-      "contentHash": "30f64b4a4ae5138d9cfc7fce1218a6d964819c59283641a6df2b28d71e4038bf",
+      "contentHash": "8a391735fdea99292233e0b1dd13539532047189343c3b992b966c642a67ecc5",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/majestik-zouk-1676622920/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/majestik-zouk-1676622920/",
-      "contentHash": "7c950d11b229b8a21bb71c7f064cf668c6603ebf381987034eb0b703a65e1632",
+      "contentHash": "1f68a84be960162fe9b5d7d18e67a2e3ac4dfb82328a4706e39466c80217c01d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/goree-1024433568/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/goree-1024433568/",
-      "contentHash": "26e06dfc67a401b4814fe59de7e8fb4068d401d47e68624785bac645ae628968",
+      "contentHash": "1359277dcc328751fd78186738a98dc7213e57072823ef6adbe90f8ff0ed72a3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/an-ba-chen-n-la-1043079969/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/an-ba-chen-n-la-1043079969/",
-      "contentHash": "77dedcccf4f6b3115303b3bab360ea3bc10c4f3140bad68524b7b9098b91ed3e",
+      "contentHash": "13b6cf37cc2509d7d0769e11e928a5b616388ecb3f9013c1bc21843049f319f9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/kassav/yelele-1055019829/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/yelele-1055019829/",
-      "contentHash": "e73d12e8ae3aa5c1014186e5b7e56df69380d1de62adaf4c1755db62530022fe",
+      "contentHash": "7494fbc17cd686904e5ab0c4ff616799c649d563a4c3b2d60c02f657f5903f5c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/alison-hinds/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/alison-hinds/catalog/",
-      "contentHash": "f687ba5454509b82c3516199121f2def2397befa9db1932df94f78946fa57390",
+      "contentHash": "61c8ea9bc9b5da3f2768b37dfff0fcff594a91d790456153b7c9e6093d543a97",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/destra-garcia/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/destra-garcia/catalog/",
-      "contentHash": "7110c66353e7c9896b920c0d399691c6e4191cf7e873194afc032488c4f04f1c",
+      "contentHash": "bb9c9f94e1f2d24daf1b93dec35761022513074275465e8989b2183ec423d850",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/edwin-yearwood/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/edwin-yearwood/catalog/",
-      "contentHash": "49d24b39446fc78c7fe311203f5fcfcb3209b3d6d75f761bc0650330dc198ac0",
+      "contentHash": "4bffc71c2f25620864b31e69469e27d841c59df8b84ca1c7795b684da3cb911b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/michele-henderson/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/michele-henderson/catalog/",
-      "contentHash": "783e8098532ed17744baa7d8eade6618943042ff6ec3b07520ad0a30f6fdde22",
+      "contentHash": "964c7dfd5c25fcdf651fecf9e0dc4c09e66c0edf0d760a7408d9f6c1bb2db326",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nadia-batson/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nadia-batson/catalog/",
-      "contentHash": "ea13872288897adf5c73b8b1ea70aa373261e0cc3b98c3fbfb8b52bcb3e47706",
+      "contentHash": "e5502bf8780e46c17b4fbf1ef347c56d5a4f3de8e50c6da0b6eb7d68636120a3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nailah-blackman/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nailah-blackman/catalog/",
-      "contentHash": "67d295981f6d9d1054e8e7ecb06ab3832e03c5ec3c6a95fa678aba3d65734296",
+      "contentHash": "4fb4ac7f5772cbe2fa76324c7190a9e7f8a77436940df9bd362943f2ddbe29ee",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/skinny-fabulous/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/skinny-fabulous/catalog/",
-      "contentHash": "2df4f67dc8b611bf366ce5ff07159997f22d97bc3c96cfd576933c8972a28837",
+      "contentHash": "16b3e469ad1988d5701c221002b72606ae0a003f12b64d7da2673ef384d5b41e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/voice/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/voice/catalog/",
-      "contentHash": "5a518ef1a9d6d54c3d0e498ea407c199835c14e03ad3aab40a9eb25ac7edf5e2",
+      "contentHash": "652d29e5c2e90a6c92a8694a5f1ea027fe80b0a45c2d8ba02bc63bc9e6d19622",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/alison-hinds/soca-queen-6815016979/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/alison-hinds/soca-queen-6815016979/",
-      "contentHash": "c3b2251a1a6bd63d8b49de80f993f66341d06a06e68fa184e5397e7e033f0491",
+      "contentHash": "4ea0f37f226553e3225faaf357402c3212890dad2e81b50be2fe098f19c27b14",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/carlyn-xp/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/carlyn-xp/catalog/",
-      "contentHash": "498a1dd46b2bc8e9bdd4be4fbd9400c40bde8c8dc339b726f589e87731b6e661",
+      "contentHash": "d26d36d1aa2f0eb1fab9c5084a8849d2a20322cdce2fab1ae0cd5e331c168d2d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/colton-t/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/colton-t/catalog/",
-      "contentHash": "13d05ec1614ed96e2e384f2cbaef2464704089d9570f1073007214a57681dd85",
+      "contentHash": "dcbea3749241fa0f4a1c8a2b0daea7cf23ca73f970a1935f17c2bbb5f5f2846b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/exile-one/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/exile-one/catalog/",
-      "contentHash": "0bf052163e52fc4ffaca40d7cec3d8c228911faa129bedfe54652ad4544bd6dd",
+      "contentHash": "536cf9825cce316084fff0767efc8b42a94cbaf7d654318ebba513542820bb48",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/michele-henderson/home-989941069/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/michele-henderson/home-989941069/",
-      "contentHash": "ed0b2216e0547a99d8d5faa8f461287c31ac1876722b6b7f3b94f3f1229b0a83",
+      "contentHash": "de4387eeaf4d392cdef19e366e63bbf318a1ffa3a26b4df72ebe28e95305e766",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/midnight-groovers/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/midnight-groovers/catalog/",
-      "contentHash": "f0aee6cec4160000cf209af51e0a6bf09504910bc9cfc93c7358c68930a8df12",
+      "contentHash": "8cf2fa1a18178480deee44b3e130235d6a080d6e70e65867645ff64178f75fb0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/mr-killa/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mr-killa/catalog/",
-      "contentHash": "aaf6b244b779e2448fa3685f29abce1374172eb07dadd12a1acdf0f6e0c18294",
+      "contentHash": "821d3bf06d0defba55c68fe9d4f0fd21f8d2960fa2c7a5f95bf89c1308c05be4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/nadia-batson/miss-b-1642089590/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/nadia-batson/miss-b-1642089590/",
-      "contentHash": "af37e949fa2bf860ff936cb813c4f7d2bc079d55e398ec058faaf4d4fc20e613",
+      "contentHash": "c73a5ba95d865ac9402265bb3ae86a523f11d4abc5660c81ed0a878bd52a0f3a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/nailah-blackman/teknique-1646315109/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/nailah-blackman/teknique-1646315109/",
-      "contentHash": "84b44cf7a65f13592016ab29578cab41c99ea654ccbcc80d7fdf2821bdaaea95",
+      "contentHash": "3858020be90384024468b0734e59d019b21d32ad8ceda9aea3e5f5b89935869f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ophelia-marie/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ophelia-marie/catalog/",
-      "contentHash": "f8f01e7c8f5161fc5b953664abb6007c0a8d1a86725d4fcdb2910e70e5e6c6e0",
+      "contentHash": "46fe8cf3a33d5505d95a8a7c5682912aa84404a56e80e9831d2d92b6cdf0b580",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/problem-child/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/problem-child/catalog/",
-      "contentHash": "3594cae50f3d1f8c8685e70c2e71027972c123bdb6194bfb8e2b4f9ff4ec9145",
+      "contentHash": "d32b2ba2e413f8fa8b1313b687c51fe46f6880d10545f7dc35e71a5b9ee56666",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/signal-band/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/signal-band/catalog/",
-      "contentHash": "9ff3559b95ec14221e5f5599090bd2f4764249c30e39550a190796b20eef54fb",
+      "contentHash": "0090d55623556f4140097e9cf7d48a0b6a51e9d07b3838c90d9b7907e883349f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/swappi/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/swappi/catalog/",
-      "contentHash": "3898c40fea14233c9f9ea5d6fdc80c17f78c7376caf48c522cae12962aa46439",
+      "contentHash": "406bb95199b46256fe95dbfd2eb0dbdb751bf4a85bae0176b5898f0e0339c261",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/teddyson-john/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/teddyson-john/catalog/",
-      "contentHash": "5a11e65de577c782eccd1670ea4a001996aca90a788d35b3faa349a248ddc59c",
+      "contentHash": "d81e0a16a881bd300751c56a325f4312b7e896e54f6e35754cc43c14091ab029",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/carlyn-xp/an-xplicious-christmas-1670206467/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/carlyn-xp/an-xplicious-christmas-1670206467/",
-      "contentHash": "17fb5ff737daaaae6a35f8fcccd19f2c2eda2130d6b639dc2ece0194009777d3",
+      "contentHash": "29dded0ecd097a7bc203ef1bfc9f12cb8a1dc2f8fb0c9186e8ab03cb857b95a8",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/colton-t/impossible-1461033687/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/colton-t/impossible-1461033687/",
-      "contentHash": "ec6c1d969e95694c47a08809eb4c6d8e23c434820b6fd791d2864b42aea685d1",
+      "contentHash": "4ed19bed1d6f4b817b464efc58396f287b8803b117d58345e98d51be33aecb6a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/david-rudder/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/david-rudder/catalog/",
-      "contentHash": "3339dc145a93ac9ae976f1d68847021465f9908fad32e644db9763571a654abd",
+      "contentHash": "d67e3e4225b290b74acb54d7834c05e309e67d0fa85ebcf7d649744a4a4d8db4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/denise-belfon/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denise-belfon/catalog/",
-      "contentHash": "719c3a6b2d242ffd9bc1d0097502db8bc88e17ec3e5a6e999cbd3176220992d9",
+      "contentHash": "144200fcec3f80ff185cd2e52881b781d096750ecc6622d2919dedb7f5c8e305",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/denyse-plummer/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denyse-plummer/catalog/",
-      "contentHash": "769a513c57e0feee685a2c77295094f871e109e9e073aa8f4e2f9926960fa321",
+      "contentHash": "5b245305a77be7502d9a7e742b0f81408f87d374f153ea7981a7f7c7b12d8517",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/iwer-george/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/iwer-george/catalog/",
-      "contentHash": "d3d8eadebeb4bee1a54e48c478d8cff04b1ebdba49ffd44efdb1d43b6ca78e1b",
+      "contentHash": "e66e849526411d0b79bd4aa3447b998c631c09bef457db13d25ca436fc30725c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lord-kitchener/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lord-kitchener/catalog/",
-      "contentHash": "98b60485c277172208729a9cf0e68e35d51f5ae84234b01af5a8b78966257efc",
+      "contentHash": "d6ca8bc94b4ea1a85efadb0e659919ccab507316ca46a3fb9db5dcb75e357fba",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/mical-teja/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mical-teja/catalog/",
-      "contentHash": "e43090944508dc4ed2f2d5e1ff7ecfdab1767e68383bb626ba44212f7f999003",
+      "contentHash": "edbf30bc95acc7924bd677bbbccea3c16e490c8e304aa7d68d439982bd08a201",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ricardo-drue/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ricardo-drue/catalog/",
-      "contentHash": "caed5a25a2318b58b8f27506176652b71982f8707e5a0ff7d91ea997ece090c5",
+      "contentHash": "a6292e879636245b819d3c5556768e0fcf512e51e7170c71dc79c5b9765a4794",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/shal-marshall/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/shal-marshall/catalog/",
-      "contentHash": "b9e4e7ea3ec10563759323e23328a9e06273104c8bc29257bb032f669ae7cc81",
+      "contentHash": "dff4bf8856c83b2e17fe149cd46ccf03cf90dda7e06b11a28f02b44a1aa0990d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/signal-band/signature-1649860840/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/signal-band/signature-1649860840/",
-      "contentHash": "26019e3b7cf4a8de06d4d7f7c1e70f66714d47d4e97c2f310642b63d93ca7bf4",
+      "contentHash": "a6ddeefd6fd0ec7b02b3674933a6c1c6d5888ca10feff41afd2d9a3edc6c04f3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/superblue/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/superblue/catalog/",
-      "contentHash": "7f9843710cc0186b933a245ab6ca2d0d3d68ce7a1da835567b0716d4ebbcbb05",
+      "contentHash": "619a6fad9d55c7cc0616693d5ca2e3e9cd61030da1b15321eb7d7bf1739acfea",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/teddyson-john/love-passion-music-671961146/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/teddyson-john/love-passion-music-671961146/",
-      "contentHash": "2b367dd4a5f3435a9c1e2eeb82437d0fe69a48bdddc738b58aabbc7d61d03e04",
+      "contentHash": "e655b775dc9fd6242224fbd25f8433eb9f520cbaddd01185c7af3a70dc3be38a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/david-rudder/kaiso-gone-dread-the-words-and-music-of-black-stalin-6803811604/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/david-rudder/kaiso-gone-dread-the-words-and-music-of-black-stalin-6803811604/",
-      "contentHash": "db01b5c5fea04ab9b97c92141286e211802c4ef4cbfb4b0aea1267bead1e068a",
+      "contentHash": "6e22d5e54e8c231f6f935faa12208902c74755dd5c23e1fd05395845a6588d81",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/drupatee/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/drupatee/catalog/",
-      "contentHash": "f546deb2dc180d6ff16d4affb68f34e3a5935c9d2a3a4db7e002bbe239ee88fd",
+      "contentHash": "d80096b5fe2422d4779424b523d18b678d620ddc4783da7eac5420a0ee6e6029",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/farmer-nappy/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/farmer-nappy/catalog/",
-      "contentHash": "827b84bd5a9e3693d44129b87bf98d15c6117a0439916871233a9329655a1a37",
+      "contentHash": "f83d7480118fff51a87da7ff3cd83b726966ef013a3a84644ea2acf380623dd5",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/gbm-nutron/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/gbm-nutron/catalog/",
-      "contentHash": "11d58ee00283033d4c3cc6237cc781b2453c09309abcb4b64850fa0c499f2a09",
+      "contentHash": "d8282be0588c7163570ee28f2c46a8ca54f872b0e1a93d9d74437d5676b05b3b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/jus-now/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jus-now/catalog/",
-      "contentHash": "48ec59d74e37eac4184eee107e8515511dcca68f11fa70034fa67d9e484f3c2d",
+      "contentHash": "575419cb61f4d81808a82537e1d99016f9e95f32d6925c0c7e18c476542696cd",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lady-lava/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lady-lava/catalog/",
-      "contentHash": "c16bd0aa4d1a03dd140a397dd032a82d3c1e4abb2584e2e40dea15f2039cd9fe",
+      "contentHash": "64804f461dd5134896fd8bd3fda348696387118b241176dbda55cce52f2f6300",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/lord-kitchener/8-1491026727/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/lord-kitchener/8-1491026727/",
-      "contentHash": "b945d155628637a637962c570387d34b0692933a6208f3488c9e5ad6d100ae52",
+      "contentHash": "f8781b42176d9f95768130e64f36e9a5f48489ee43b34897ef7a2348be26758e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/lord-kitchener/london-is-the-place-for-me-460529975/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/lord-kitchener/london-is-the-place-for-me-460529975/",
-      "contentHash": "63bd344fe0fb74795f30b3f154ed8b15a4ab8252c83941adaad397b01ce2fa94",
+      "contentHash": "f9c90a2b3e07be0a806dccbe4b3a70162b38aab4a7608adb18a3dbdc2e881097",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nessa-preppy/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nessa-preppy/catalog/",
-      "contentHash": "169b33871d97faac48e1acbfc197b3eea2d7bf3d9b18428bb60a01f0f46ae1e4",
+      "contentHash": "53d2a3d95755357dcb49d52d67cedccf9f5470326b8ea3a474448bc1dda024cc",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ravi-b/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ravi-b/catalog/",
-      "contentHash": "4bdb35dc8221d62bde1119347de197a65a2e107d493695cac68dce96118e2cab",
+      "contentHash": "097879cfb4cc7cda0a81034930c7c95bba6ff7dc9f4bd6df269871ef028e275c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/raymond-ramnarine/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/raymond-ramnarine/catalog/",
-      "contentHash": "f17c5da3f8b5ef581335e7ee1f7fc5aeb5937b2ed4b9b9a3ad46bb205e8f54d5",
+      "contentHash": "47bc6c40d48809d342bf037871a3de081f5ef1d29167c2d8d6121a02e747e39b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/sekon-sta/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/sekon-sta/catalog/",
-      "contentHash": "bc7b21c5908cc652fe86b8aa4ab28d8d555edfa01e0e24ae663c92c1b45eda7b",
+      "contentHash": "522133306501a03031e59007bb53057c623da918ba5e6084e9965305ceffc167",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/releases/shal-marshall/ishal-1642133413/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/shal-marshall/ishal-1642133413/",
-      "contentHash": "48c644af2d0d613078cc02ab7308cf13acc3180df84e0ee0df3152cace9a2c62",
+      "contentHash": "11085ad814bc418317b4eeeee8ad67d0eb89ea0ceb2966bb6129da636defbd05",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/farmer-nappy/big-people-party-1642068139/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/farmer-nappy/big-people-party-1642068139/",
+      "contentHash": "efd1013c4ff59d88ed8881f5d56515ce5a67d2e3f18094e6ae215288fae8e590",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/jus-now/way-up-ep-1178703592/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jus-now/way-up-ep-1178703592/",
+      "contentHash": "8937744769cef153db00dbc14a2b1119ea96afd1150698e8d657e5d7a2c6a30c",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/nessa-preppy/little-miss-arima-1778869277/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/nessa-preppy/little-miss-arima-1778869277/",
+      "contentHash": "a793047e50e759b9255967accdb3859a4fa3f495443446eedc9d5cd0ca34c22f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/cadence-lypso/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/cadence-lypso/",
-      "contentHash": "dd8c4680de749c118a1a316671832d8f022fd05e5aa5cdea568891ca23c22ce7",
+      "contentHash": "5722999d66700a3d1d5452199e23926a40a6e76c089b3f49cf8e52062001b677",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/calypso/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/calypso/",
-      "contentHash": "7700ce359bc80d941f19d15029a34370b41b4f3b05db3ed846a0ce25a9616e5e",
+      "contentHash": "5e1228a15e8865f0f202bfddf96fcdac315ab12df03803b08ab93210b652a6ab",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/chutney-soca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/chutney-soca/",
-      "contentHash": "8bd6387fec3fc0cfb0c1c080071df36f5eaee8589e46cac960981ee7c7566c69",
+      "contentHash": "1169daf7f47e259e2f90dd40f0279c78f3e5b8f9aecf924e5c9fcddcf8c77e49",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/dennery-segment/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/dennery-segment/",
-      "contentHash": "d36c09ad09e304e4641ae63328c927752fe50d5e824c5dd88e6058aea2895b81",
+      "contentHash": "7e110fa36bed522651cdced7237b7b78079552ac6002af416c8d3d246cac9747",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/parang/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/parang/",
-      "contentHash": "6b683c7da2cb11e8bd19a1421e9eb96f424beadc9d79f98cedba9bc8d0f45aad",
+      "contentHash": "8e55f2db34adcef7532f797fd7b0cac5cc5513df41116618c6b680225f9acc9d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/trinibad/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/trinibad/",
-      "contentHash": "8e3477577e46aaea17ab63126519f5bcaef4494df80846a137f921622d03ca9b",
+      "contentHash": "58db0853d2041a6ff93689e446a6aebb483eee8c41aa40f9ff96218c4ac4973c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/asa-bantan/wet-fete-king/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/asa-bantan/wet-fete-king/",
-      "contentHash": "248d8d147a6d92ba196faf938215a60f0b1db3261b1dfa9399229f96b6edb519",
+      "contentHash": "65de8de1c78e6feeb6aabd1eb38df0365be62f265c11769401b07e67e1b53952",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/bunji-garlin/truck-on-d-road/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/bunji-garlin/truck-on-d-road/",
-      "contentHash": "982fbb19d7691f2eedfe74bf464dd3a7e3a43f7fdfb578a9c3c18b708f7d8be7",
+      "contentHash": "7e640418bc4a3b3d7ab60d2e094b82954940c7554f02dc9171f736ebf17c7e96",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/kes/liki-tiki/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/kes/liki-tiki/",
-      "contentHash": "861967d9e0421e896ab579e0230fc69aac5f66f7a4ded4f56432cc854643b9d8",
+      "contentHash": "ae44ec3f3dc22a30dbdedd5c4ada87491cd855f7758bf7db4a3be86bb1723989",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/machel-montano/fast-wine/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/machel-montano/fast-wine/",
-      "contentHash": "49c592d08d3cf3adf98c041d924cf47d4e939467bc17304b954e9799dba9428e",
+      "contentHash": "5715e1cadb9a248ecfdbfaac80722ba27d667e86099f268e017a7af17d3f4baa",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/machel-montano/like-ah-boss/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/machel-montano/like-ah-boss/",
-      "contentHash": "f9f4febea2c561dfb7e3ffaca905cd12330f2cd968e90219ad88e14692c2f664",
+      "contentHash": "fda54b1916b636a890907d0a3039e5d00a0d5b7d57c2a4736fb16f375a65da1e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/olatunji-yearwood/engine-room/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/olatunji-yearwood/engine-room/",
-      "contentHash": "f7c7693128ea5e77ae82d5ae0af968456243fc70f4aad809f9c1935eba32207b",
+      "contentHash": "7153a9b9b3eac9d38a92ab2b93af4efd88f1b047ef84c7766b4513e7d6c1bcf3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/patrice-roberts/tender-acoustic/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/patrice-roberts/tender-acoustic/",
-      "contentHash": "5d73bbf49fed454b390332c0d6d2d3df0836cdf5497cef0263db80611615584a",
+      "contentHash": "b957c5d4a7ecd441fe48a03e9ee00e8bc848bd31e7ca1871f41bbac85dbfadb6",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/trilla-g/take-me-as-i-am/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/trilla-g/take-me-as-i-am/",
-      "contentHash": "48d5ed53a42f11737930d1ee3ac660b26603c0f6a0f70f140f96a3f132584aeb",
+      "contentHash": "a4c5919dee0c23c887a63fd69f0cd56003a35cf6de807f12f18976b68cb38c73",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/cousin-family/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/cousin-family/",
-      "contentHash": "ccb44c4df82126cca759424711a290244231ad65aac008c7d0a54e3795ea0488",
+      "contentHash": "287efac02268d4bcdc41e9c384210b5b46a0533515bd1a64dfa1e6dc69e1b30d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/god-made-us-all/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/god-made-us-all/",
-      "contentHash": "64a82afd6c9be5474ca5b3e6538800acd3904867bef9365cfdeea5abb7a77a33",
+      "contentHash": "320193e0906e14ad2633cab0f7875b308cc3f29695e8f49efdcd4887ede3b134",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/im-going-back-to-africa/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/im-going-back-to-africa/",
-      "contentHash": "9ea09e5ac165e945841c842296bef903da4853e645804ec764461e63707382de",
+      "contentHash": "5396ea9649fcbbf8dc57e444fb51a57f42d11ae835c0c3aec6a76b8781969630",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/labor-day-jump-in-the-line/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/labor-day-jump-in-the-line/",
-      "contentHash": "0a597d5506ef843ac369b06178f1658f75f46abc9bfdb5d1e18e8f1986225ce8",
+      "contentHash": "2774496f5a3dc79cccc0e3443359e84b2ebc876c6e05c37e934e96f1776486b1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/my-experience-on-the-reperbahn/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/my-experience-on-the-reperbahn/",
-      "contentHash": "6da991248660b948022e45ca15e7b995375fe99ff6bb2c25a26de732c044829e",
+      "contentHash": "03fc62397e470597f68384cb4238963c12d37a78579a8831a4079462d368f23f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/my-intention-is-war/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/my-intention-is-war/",
-      "contentHash": "e06def501f7691ec7b2e152ca8b73696a6e2a2e657e9581374880cb999575e17",
+      "contentHash": "886461982facea993d4f606066cf8600cb409dd10d76f56ebdfa753b1fdbbf6f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/new-york-subway/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/new-york-subway/",
-      "contentHash": "d0fd6f357f6216855711154e8e47185cdce7ecd17631f64d78b2903806604d08",
+      "contentHash": "2de9c80d7d8cf26c27d9ddf50be09a0c3c1fa80ddf9ead9a112ccfc9fcbd0943",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/the-soldiers-came-and-broke-up-my-life/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/the-soldiers-came-and-broke-up-my-life/",
-      "contentHash": "47a80282b0211651017b07146e162329a16fdbe73c650c98069c88877cea3d05",
+      "contentHash": "9b086a0fc69f4c5651c8faeee52bdcc2d1887433eee7b22c9a7b86fd83409a1a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/tied-tongue-baby/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/tied-tongue-baby/",
-      "contentHash": "e5b8f0487490fd75a743e9a019e1ff072ca79b01b2d57afbccb4240bd0225c89",
+      "contentHash": "fc08298fd61736e21e73356b0eb715c76352754af6da351e6515c2471db242ce",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/lord-invader/youre-wasting-your-time/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-invader/youre-wasting-your-time/",
-      "contentHash": "b77f2d3d69f8f8f8b36099912cff898c657eb729768166ad54e776e892db96d2",
+      "contentHash": "c5f817bc24094099a0d7e3ce75842c6c3f16bfe7f056b78a11eaa2356deefe31",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/no-doctor-no/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/no-doctor-no/",
-      "contentHash": "e63336a70073b0973cf5c988bdfc31788f38e3de26011d4038b5e85c73f60ad3",
+      "contentHash": "74516cb766ccab2636122e86a937854dc729df828c57e50b7c43f62975478d0c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/no-more-rocking/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/no-more-rocking/",
-      "contentHash": "feb6f0b0022cab8d996fa2d118919f51861e7073685f8f4da8fc797d03f03c94",
+      "contentHash": "2231335225036c3572370793272f1a8e3e599781ccf58e82f42663724ff919d6",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/post-card-to-sparrow/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/post-card-to-sparrow/",
-      "contentHash": "7cc3f944ce11cf047926aa7cadbdaabde3e9f7e85a239393df68155dbcc3787a",
+      "contentHash": "7ce120fce443d04d2d0d9690b37c3f2c4c43d4762dfdfb8e2af69112c0e63288",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/russian-satellite/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/russian-satellite/",
-      "contentHash": "8dc36a7f15f045a1668c75233cca9f9c49431a2f3f83569444a3780c0a7a7487",
+      "contentHash": "03eb776e92bc8293c25ecfa213b540a35304852de7fdd356a9674e0fa4aeb461",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/short-little-shorts/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/short-little-shorts/",
-      "contentHash": "04970aee42bcfcd72b2c77e755d8631a817a2576586660d05b5c6d698efeb198",
+      "contentHash": "694981ccb75c4a6406e17c8a8c3043b3004ada9e58cabef1645706fc2a7ed2b7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/mighty-sparrow/sparrow-vs-melody-picong/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mighty-sparrow/sparrow-vs-melody-picong/",
-      "contentHash": "2dd94041f4ae13b4df955ae53a2a58a4c2fdc10046ceafe6cd87cd42c0765ef5",
+      "contentHash": "500a09b3fc69360131638e85346f18bf0b82177d60256368b01c35ee797d87e1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/events/saint-lucia-carnival-2026/music-results/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/events/saint-lucia-carnival-2026/music-results/",
-      "contentHash": "6b1d1babc08cc469654bde137db1c58e01c8d23962da02f98ae1d222915a8007",
+      "contentHash": "08f4f9576a0314ad0cb73217d401755edfed7d3df1520ad92c988754fe51a8ab",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/andy-narell/appreciation/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/andy-narell/appreciation/",
-      "contentHash": "1970d09bdd26f8bc58f11b4c03ce655b824e022b43f2e1f0183558162ebfcbd3",
+      "contentHash": "cede0132cf2b1528ef7e35ba6887f69afdea986ea40a72afb101dc2f1e820b88",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/andy-narell/tatoom/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/andy-narell/tatoom/",
-      "contentHash": "fa1291f78ba5c054dc305dbbb007d9a20e859cd8491e764cfd7a36481fb88025",
+      "contentHash": "ea80853da4a9ca322e2eda4873d700a52319736a2e464bc3e5dae5c07d660381",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/asa-bantan/do-something-krazy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/asa-bantan/do-something-krazy/",
-      "contentHash": "bbca7970e121f805d1ee5eee5ec2f4a02c2d70a785d144d7c00612257b2f1c10",
+      "contentHash": "1d439323a56bfcd839951eb28c81932b2cc36a66889de18ad698c17915021e5c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/fay-ann-lyons/block-the-road/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/fay-ann-lyons/block-the-road/",
-      "contentHash": "ff8e11c714067f93d00c55477590cfd1b6e1cc45d1c3158392cebe63541f0c71",
+      "contentHash": "0ad75671c4a716d62af4d0a8478eaccd7181edb19d4bf99e60e09f50d4f81b02",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/jocelyne-beroard/kole-sere/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/jocelyne-beroard/kole-sere/",
-      "contentHash": "42b93ec8cac977901e876b0532c186935536fa0412e49c3192aafe842dde6d86",
+      "contentHash": "5af3b6eec7523c5aacc1ad252ec57463fb7ac995dbb4a851636146f4d1611c7d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/jocelyne-beroard/siwo/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/jocelyne-beroard/siwo/",
-      "contentHash": "2431a7764c0c79aa2a7417345e42c76afdce575814775782f8804215e32b5a94",
+      "contentHash": "9232705ceaa54a1e9612b9123a1eb9f8340d8d56826ccb3df1d377d554d4b43c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/kassav/mwen-ale/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/kassav/mwen-ale/",
-      "contentHash": "ba033305fe322495a9e94cf20612f0812894198158cfdeac4884d5e823ab3c47",
+      "contentHash": "4ea96f1abdc312a2ab1c539264374e7ae381ef2c019fffead169f97e2d227b6f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/kassav/zouk-la-se-sel-medikaman-nou-ni/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/kassav/zouk-la-se-sel-medikaman-nou-ni/",
-      "contentHash": "13d062be151a3ca4627e0a9bf503daad93873216a834ea4ab9616b5de9227020",
+      "contentHash": "2f9147ea97181c5bc21784f25a07c974851c888d8b749b6ed377f52f7095108c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/litleboy/someone-else/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/litleboy/someone-else/",
-      "contentHash": "e6d2580145015307a39de75d3b865b3c05e5971ca57b5f7cff74d02d40f49cf0",
+      "contentHash": "2ef0a0fce2593287f3d1998636121bbd7d33e12b0e0cff7b39c8e1727ac63322",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/machel-montano/famalay/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/machel-montano/famalay/",
-      "contentHash": "451c88022ad225297a5056b27ac00e139689fe36c87cae9d22d99ce2c682edcf",
+      "contentHash": "e1561da025e0fafd2cb6585acdb92ce55bc0c41a0fc49235a1643d8b77dc5639",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/alison-hinds/roll-it-gal/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/alison-hinds/roll-it-gal/",
-      "contentHash": "12c6d424e75b1d823398ea1dafe6b329fcd0b338bf0162f4e8ae7a96cacaf8de",
+      "contentHash": "31ed146df0878cec1c33235293e1c33157520365eba39e3eeac5f3a331b78c8a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/d-piano-girl-johanna/well-go-on/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/d-piano-girl-johanna/well-go-on/",
-      "contentHash": "064a19d7ce1c5d77ab3f4f20cddc56fd140dcfce3fae9a57706cc3b137acc332",
+      "contentHash": "be7173fd33e8fa56168f5b28b909f26fe195b0c9744314022aa0ee8393f90fe2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/destra-garcia/lucy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/destra-garcia/lucy/",
-      "contentHash": "5e1410f68399e0a02e171c5f685af36c3ff914ffeb37403b9ecc456f538868c2",
+      "contentHash": "555e3446c41ae4adfc933a636cf8b47c2615941367c1b9491b538393147ac841",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/edwin-yearwood/i-am/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/edwin-yearwood/i-am/",
-      "contentHash": "5ccc64cc2159b1ff37b782631141a096886bedcbf2649c010166590f8afcd845",
+      "contentHash": "d5bd51e8a451da80893b7e9a596948aa2313d79995715486790b8208c16cf0cf",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/machel-montano/pepper-vine/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/machel-montano/pepper-vine/",
-      "contentHash": "0cbca3d542159146c29f7c006caaf069b366450260fffc55163a28769297c1df",
+      "contentHash": "7ba9319ee3240584aba074179dd9a73031d6d460a957abd74e2acd7cd8711d29",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/michele-henderson/celebrating-caricom/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/michele-henderson/celebrating-caricom/",
-      "contentHash": "ead70fc4517f1839f4483aa22ef2df87788989805b8e9dabc23d7ece6c4b29e7",
+      "contentHash": "339da2ec845f236ef1399b683fd8b15c50fda7fae00ebb08dee1db27c49b4735",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/michele-henderson/rebelle/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/michele-henderson/rebelle/",
-      "contentHash": "c94e4c9166d2817c9f34ed756677edcf94d9df9a7c19c47a7a825424b641c88f",
+      "contentHash": "100ac7185ee546c85a6514aadb1edd65c4f70a76573fab92a0fba5432c8453ff",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/nadia-batson/so-long/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/nadia-batson/so-long/",
-      "contentHash": "89ff716c67ed1be308ee084d9ca3226b4838b0f0ddc0ee153bbc013fc35a30f7",
+      "contentHash": "b2c879c86a208e7763de57ed63bca1c132b0a14c7fba754e623b71d39e953c7e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/problem-child/nasty-up/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/problem-child/nasty-up/",
-      "contentHash": "a66fb8a52af8af9ef78b12b1180d2e236812f950b847610aa84c256bc9acec30",
+      "contentHash": "aad807d8b23a91e71183265f87d36e4efbd6c2be89ab5c3a208f8ade681a5141",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/voice/cheers-to-life/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/voice/cheers-to-life/",
-      "contentHash": "b511959d5660bf4e1dd431f72e236933b35d4b6c5af987ffab80bcf40a5d3b51",
+      "contentHash": "95ed362594f848d80e3d7d2abb6b96a2f6f1c5a43667f1b67839e5183c155df7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/asa-bantan/one-man/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/asa-bantan/one-man/",
-      "contentHash": "23ff3a43ed2c2f4fb28f45d774bbb1816e85b40ae849072a9475cc16a5563f60",
+      "contentHash": "8a5dac13c6d89b9122b9ba5a7700795f04311d50f88638705c03a84d74c97fab",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/destra-garcia/liar-liar/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/destra-garcia/liar-liar/",
-      "contentHash": "4c0785f85adbdf0dbf4708758f34857c1b59bde86d50fa04ea74021549b7be91",
+      "contentHash": "424dbb12813bfb5b2da1e2e2eff9fc14ddcb1a952ac35a0caf5708b45d90082d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/fanny-j/ancree-a-ton-port/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/fanny-j/ancree-a-ton-port/",
-      "contentHash": "3eb791b1f2d6a0e19fffb9e4ae2039851ef6a747b33108646ef65d0ca37d6617",
+      "contentHash": "fff185640b555ab7ad6f58132bdd5609961388c8092f4dcf27c7cb01c90a5fc0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/farmer-nappy/cooking-kompa-remix/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/farmer-nappy/cooking-kompa-remix/",
-      "contentHash": "e4f73ff8e6f7d2b092d41bad6c273c1cb1e5c4e5d538a718c2e1aa6bf3ec2963",
+      "contentHash": "4150050d575b81d56604fb36f6dfd1cbcf20f79c9101c728aadc6025ad34d5e5",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/litleboy/wap-wap/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/litleboy/wap-wap/",
-      "contentHash": "2c9ce37f94df35fe43efac77507356dc7b80bef2308a71b8e81b96922f415d94",
+      "contentHash": "27242f00f32d6c0cfbd7e6824441c6c12bc06e7e5c2f4d4a467dec407161544d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/nailah-blackman/come-home/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/nailah-blackman/come-home/",
-      "contentHash": "4a7c4af9a869f5bfcbc7ba7e4185f02499179b54ddb6a1321dcabdcb24443512",
+      "contentHash": "dd19fb7919d0740a10fc3d0535857aeb7383fc41d9d39e8f24a20aec0cbcdd16",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/shaggy/dont-run/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/shaggy/dont-run/",
-      "contentHash": "723bbb4206bf54847d456f18a53d3d0e4920160fbebf773c5c0fc1e07b0c9e79",
+      "contentHash": "96adbba088319f1a210778ebae191485bf03ebfa01e8ddc59c7a172b32f6a0c1",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/signal-band/for-de-karnival/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/signal-band/for-de-karnival/",
-      "contentHash": "2f1ff022942ea45062659c7a874c9d625b6072c17a3c10458bfd52d2da0b7d69",
+      "contentHash": "d2f7f22cd3b6ea0237bce43aa2593e4f1c4c6e3ea01baa37e8d43e4ca50db608",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/trilla-g/congratulations/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/trilla-g/congratulations/",
-      "contentHash": "72bc5fc9ceaae514b19118f54854549eb4ea71193de39e27f4cd3e877d4952be",
+      "contentHash": "1d6cd5a1ca4176124089569cdd18d97a4cbf7ceac7fba5648ca07932403f349b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/triple-kay/ftm/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/triple-kay/ftm/",
-      "contentHash": "452acb1cdf81e4e97beb1f1a9f8a9e2cbc742971888a7f4445148eebdf6a465e",
+      "contentHash": "2b54db9519f150710827a2572760114d53f072cd1cbac919ba6feb4a34d869ef",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/blaxx/colours/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/blaxx/colours/",
+      "contentHash": "79c9abcf5a206e001423d3bc780739865be17bb49ce63bf7722ad7b75e1b018a",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/david-rudder/calypso-music/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/david-rudder/calypso-music/",
+      "contentHash": "aea5670fa7120b0740dd18c84d8e8521dae1006531debe17c7bef80ea90adc80",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/denise-belfon/work/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/denise-belfon/work/",
+      "contentHash": "e87c7c88bc5c52d95544529b44f97d63969bfc89cf6625671099a25815a9699e",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/denyse-plummer/identity/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/denyse-plummer/identity/",
+      "contentHash": "2eda8e2b9ae729c13bbd6a1b8c85e1bb877db6008bd8d507aabcaaffd732fe8d",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/iwer-george/the-people-and-iwer/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/iwer-george/the-people-and-iwer/",
+      "contentHash": "ceff0f8b50c2b25a012808f9e022039d2439ec4e517c972c6777457a915abbaa",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/lord-kitchener/london-is-the-place-for-me/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/lord-kitchener/london-is-the-place-for-me/",
+      "contentHash": "0c73efa9ae32a2fa325e3a2e5b1077f767ffcea69be74b37cb914014912accf4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/mical-teja/dna/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/mical-teja/dna/",
+      "contentHash": "b2a32a8b88b30f976f4bb12b535c622912b97050a0aa4800e0344bb12f71f431",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/ricardo-drue/homesick/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/ricardo-drue/homesick/",
+      "contentHash": "8e493345760db2d3a7a5d8a8c8c8d183720e81a5fc35331ed8d6b1c0a31d89e8",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/shal-marshall/splinters/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/shal-marshall/splinters/",
+      "contentHash": "fbd88d224e01744528a2ae5b82d882b02335dda06b678b95ce0661c903e2c30e",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/songs/superblue/fantastic-friday/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/superblue/fantastic-friday/",
+      "contentHash": "f32276da5a3c6de559c0e3c0153982a00448650813a4d2004fd81197ccbd6b4e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/songs/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/songs/",
-      "contentHash": "c31826e63fddf0b827047f649e2e63a62d46f1ddb7356f094677a4f92087ec36",
+      "contentHash": "cf5834b52e81ee01636793ae886e5448c1166147424319acf79a22f546c0e733",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/",
-      "contentHash": "120f347f532500e34d768f055e6b3f1776c5533f3ec52d23b90d33512225640c",
+      "contentHash": "7bd47540d1e9653321f14069245e1dff29f9ece1344c0be20435850957b932d3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/",
-      "contentHash": "ded115d98d17873622f280d529c518fb4f2906051f952e1a63d3781f6561f406",
+      "contentHash": "305cac61901311e7beabbde048e01e1a28579bbe2eb001d762724f7da7cf64e9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/asa-bantan/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/asa-bantan/",
-      "contentHash": "9d4e87b5e9b91bed2c84cd73b134e2a472297b302da3ea09e57c2b0b1e366020",
+      "contentHash": "d254a30edc6e094527f1315df57f2401bafed81c41ed5ba16d230b311507c6f8",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/wck/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/wck/",
-      "contentHash": "6824f294c3830728722e71fdd6a05772ec4c6daa63e55a1de47b0b62983d2ab8",
+      "contentHash": "ca7d11982b2131957c8409f47bc5f706e951223cca40aa7a6a8336f87e797b8b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/triple-kay/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/triple-kay/",
-      "contentHash": "b33aefcf7295362a3763f6a87164bcfd9afa7a7d5b46c8e64e0377226d86791b",
+      "contentHash": "df127b0c4d8bb81442b43b5e22b4b7ae64d18606439a4d9fd8c7c9000ff2a298",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/trilla-g/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/trilla-g/",
-      "contentHash": "726566f56905dc1ba6f4ee14d6c705256add8da75438622d9802fa99304f3ad1",
+      "contentHash": "685e9f6afa27d62e2842a54596071038b7a3c850db9f6970dff67b759941f5ed",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/machel-montano/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/machel-montano/",
-      "contentHash": "e89d0108f7938f7af7eabae75d4cbd3062267b27c0d42cd2b2cd5ad29ba2c078",
+      "contentHash": "d668447947dfff4f30d09c88d4ef783ee03777f6c4368a32692346c90b48ed66",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/kes/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kes/",
-      "contentHash": "1cb9507635bcbe32d4bc3e2c39495b79e5584c93d9dd5aef2d8753b26058325f",
+      "contentHash": "47a467bac4704f0421539801e07097edfee8493135bd3598497b98e5664ffde3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/bunji-garlin/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/bunji-garlin/",
-      "contentHash": "e0445f17a8e64e583e20d9946f27e26d4326e0546dea6c79e5401079bf3ba9bf",
+      "contentHash": "9c92d999c1b16d76395666b93170a3aaf516bf57be6b20d76e47d2580cff38d0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/patrice-roberts/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/patrice-roberts/",
-      "contentHash": "927da0e11544217d1d0478e745a2fa02ade4a2dd651dd8285093a9b5b49d0ed6",
+      "contentHash": "d380a9d7cccee0761a3bea0163c2e7d57cc300688d6013d32b4fc22cb2d3dda4",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/kassav/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kassav/",
-      "contentHash": "e91beb2d2d2a671e1bb5236512d05cc7a991e90e2dc92e60bc4fea11efa2465f",
+      "contentHash": "a0083492cab1947ae6e5aedc7512bd99e7569e43250e6cb6df81774318f1afa7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/jocelyne-beroard/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jocelyne-beroard/",
-      "contentHash": "f57c0080a8ee9a19c9098357eb1682965d2fe4b971fb9d3229d248523809cf5b",
+      "contentHash": "cf2f875763f452b04149afcbc3cf06f3c1c66cc5994afa2670218c54c6e0d2f0",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/k-reen/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/k-reen/",
-      "contentHash": "a26c1f83ca324c875021488629af4537fe6382fe58e265ebfae07a2b16db4092",
+      "contentHash": "570497dbb73c3c6136cd637628e86cbe454ac4d5bd0336127d9cae4aa3d0c093",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/fanny-j/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fanny-j/",
-      "contentHash": "0e4bd82b924c1e7a04404acb4b63f4850f88b951589cc16f31aab3017218c6b6",
+      "contentHash": "aaf98d6c65a5001ede2c7acf36a3898b256163358ac7bd3094d894c3d860b399",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/calypso-rose/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/calypso-rose/",
-      "contentHash": "436e3e1e90982c60b2bac0554f648db17c99d4135b5a6b9d372ef1aa46caa52f",
+      "contentHash": "409995b9cfadc84a002c09efed1462a1538ea57266e14c21140aa63f9d7e6be8",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/fay-ann-lyons/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fay-ann-lyons/",
-      "contentHash": "113481ea0e0ba116af7a7b81f355a40039f0dcf98c9449b71f92751c693f821a",
+      "contentHash": "b4a1d706be38df87e7c0ca0cf5f044fe1eaa20dee7afe1ad42bfab200f3f090d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/mighty-sparrow/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mighty-sparrow/",
-      "contentHash": "19d8da851a1b84b2a7dd51a66c06ff897256a15222913e7a665856ae8e8b7be0",
+      "contentHash": "e1f11dd75989921f3596c581281251afb018711336d96e1dc70992e7c0a50686",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lord-invader/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lord-invader/",
-      "contentHash": "697b83c3c8e7a0c6f55ca30b1309d2bfddf3a927a29386f1a0ecc89d250d1ada",
+      "contentHash": "e43b1831127b6a71b4f502f4dd628eb1f0e900a1dc05a9b791f47c85c3949335",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/andy-narell/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/andy-narell/",
-      "contentHash": "88031e1042d195975e7f61cec480a74cfeaa51eb7268828012320bdfaf7bf861",
+      "contentHash": "c895ff8af78e91e190a04bafa1b9d7561afeb5fa3abf81494fde526673509741",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/olatunji-yearwood/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/olatunji-yearwood/",
-      "contentHash": "5006e26349dc21238a63dd0b9c01203db934a6aec8a2fc76d1b5cf20b34f8bcb",
+      "contentHash": "6168e54e6f6815212a5a3d710c556f164d241f55d5fcd74c225b24bcd039159b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/litleboy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/litleboy/",
-      "contentHash": "356c883ed6aac3f3b396021b5d3f828774b3551c075664d92969903790711937",
+      "contentHash": "8a58976f85d16b72071ab6e2f22fd1de13c370103e90dede215fe77fd64faf8b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nadia-batson/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nadia-batson/",
-      "contentHash": "f49759fe781c3944a63438ad399b05cb72cf902e4254ef1c000ae56a461541b1",
+      "contentHash": "4654dd3ef8fa3919fcd817040c22b8d10c13fa2045343594350936a4fc5ece3e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/destra-garcia/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/destra-garcia/",
-      "contentHash": "6f6e2ac08fee52018bf91d208bdc6aec45af3e259554e1f98ef087588d0b8fe4",
+      "contentHash": "2176ea9c8cae6531d4927a020ce4af73b30c0092a91d73b3ea15703875b3119f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nailah-blackman/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nailah-blackman/",
-      "contentHash": "92c88bb930b6ad7f746dc9bf47db3fcdf7a9a9f91dbe0b38fd72bd14157b1a99",
+      "contentHash": "3042df59706b71e7818242355d3973eff290b732ea2355b9811d8fb5bd67a63f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/voice/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/voice/",
-      "contentHash": "d5542320cb1720336ad65aad16d67fdc2312f512d7c1cbcc0eccbd02850e6cc9",
+      "contentHash": "a0a67298f7fc28fa8d07bad079db6ecc1c78bbb0801e16a27ab27055828be7c2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lyrikal/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lyrikal/",
-      "contentHash": "ed9e01eeb641f6ef5413dc010b9ff92a946a946e1be7c54247a8167262665e48",
+      "contentHash": "a675d83e26c612c7a1379b7b76ace736648b2e3f2fc91428b3c21b89ba695fbb",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/michele-henderson/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/michele-henderson/",
-      "contentHash": "12535847eca80a5647a35f264c31b64ea698c8d166e0881efca89acb82178781",
+      "contentHash": "802902546839bd680befe241d4c4ef1a58ec128bd92b6dec27c680573fa4d7d7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/skinny-fabulous/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/skinny-fabulous/",
-      "contentHash": "5a8c71803a245f2656e92628c7b28669c949c90a83c0512af5e86adc82ebd5df",
+      "contentHash": "d93b55f6faf91cf597cd891ee908d52ae82ae61241dc3a278c1ed586812dcb6a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/alison-hinds/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/alison-hinds/",
-      "contentHash": "0b02f66e2f8893035d54241b6e8a022f3fb6e917175fc96593c4d6cd344d25c1",
+      "contentHash": "566180b339c8bea8821834c7b3ea7510ae436d94999c974b241f693d0e8739cd",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/problem-child/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/problem-child/",
-      "contentHash": "991cd8cd866f19652dce0247c4dbf6b7432898979b7e9840d1362feb028cddb7",
+      "contentHash": "7d53c58d426373028bb04ca2b8a36ba04dda226e50c29e15660b27f3de74864f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/edwin-yearwood/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/edwin-yearwood/",
-      "contentHash": "0a81073bc38446f6d0471d0a406a48384e279e209a05fca67fff5fca670523a3",
+      "contentHash": "24a9dac904ca15643cba7819a215120484be0434ed43962313a630708b5c1c20",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/signal-band/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/signal-band/",
-      "contentHash": "2979e316815f37978c8a3b70448e71017511e2e57dce5b0992151177ec1bfffd",
+      "contentHash": "359be788ff870efca941b6f5cea8d148d751f87a27116443417cfa2171b2454e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/midnight-groovers/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/midnight-groovers/",
-      "contentHash": "9538e2c16c4c0b201de762228a43877ea0dcf92b34556f179405fb66a367e4d7",
+      "contentHash": "969a95c624b286793ca1547dc6e975d672ce1cf117af832570f96513c3869d7d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/exile-one/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/exile-one/",
-      "contentHash": "8b4e6716cb07b91ca7b36bfed76d3c62a80e0a6c188c9a851d2e8ccf25a7c1b6",
+      "contentHash": "8af6774bbb3fb565d9014ba7c60c8e866ef4fe39dd7fe66f64d6c30f39e07bb3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ophelia-marie/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ophelia-marie/",
-      "contentHash": "0b90cef62702d9194c2f28bc8b295f99c4d48736d86a0f7ee8efe772acc9398a",
+      "contentHash": "a0ea4741587d85a4feb3f624fb653cad7bc4af0ba1e76b44096eec9a0f93009d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/carlyn-xp/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/carlyn-xp/",
-      "contentHash": "1beef2ab720c7885e9786975085876313f3485a861af7d5297e80736a9f65254",
+      "contentHash": "b7b354528798f548407416d501307852052120af7bbf7eed1ba9fd973cdc3cb7",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/colton-t/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/colton-t/",
-      "contentHash": "b49d910793b0fa3885ddd184e51b8c2c4c815e0cf6de84d7df8492d6228d8df7",
+      "contentHash": "9601a267cb5c322e044215dd82005c162abe9cb08d51302b1f69407ce9f8d6c3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/mr-killa/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mr-killa/",
-      "contentHash": "1192ba75d82d7f05f1f060a55e0ec98ebab8120a9e4b8afb6ce2f7b69952407f",
+      "contentHash": "9f15fece5a20e3ebbc0c5009323e262c26d6d3b1ad4c02e12cc211cc89cea98e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/motto/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/motto/",
-      "contentHash": "73d06951d9c44eaa8d8fa793ac070cde4f9d52dbf3465ebf9d46755a928c781f",
+      "contentHash": "a6c2be495ff64a328e323310e718fdd4da5e9b5dba9ee6dd10cfb7effa7aca24",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/teddyson-john/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/teddyson-john/",
-      "contentHash": "c7cf39343bb65cf4ed0e1b54caeb3e78977cb35af5a3dc696552389d9360167e",
+      "contentHash": "e1b12e14daea57d5d47dd8904941aa94e9794fb8d6f5d29d8628fa1e3f1dd90b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/swappi/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/swappi/",
-      "contentHash": "224d586eda4cde6837ce2917ed5b3674ecd4ebb4fb6195db6a7843195b544c1f",
+      "contentHash": "7acf4037d914c7b65124950ccfaa5d939d87292c5fe040a34fecae66386c661c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/denise-belfon/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denise-belfon/",
-      "contentHash": "bcbdfba8ac321f74201a9ae958f6a9427696ade26cac7cf0c82afed021ab3ca9",
+      "contentHash": "79282727077d077bc8fa6478db39ed22eb8b934943c894b67ea06ac5b4074ee9",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/shal-marshall/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/shal-marshall/",
-      "contentHash": "ac273ab686bda84edf415a7ec11d98cac76d59b80e07c0dbbf4f4c6019a3a0f4",
+      "contentHash": "cd63951f48c59dc1a5bf886f85406f286f93105b46888af8b1f20a451ceb85d2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/iwer-george/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/iwer-george/",
-      "contentHash": "0d8e914066cf12172758ec3134784165a1ce83ac321b01a97261940587d3effa",
+      "contentHash": "4efd008ad6ecb2aae8f57311c8c5b8906eb8866bae6fc21c5149bcdd6a675888",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ricardo-drue/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ricardo-drue/",
-      "contentHash": "12ba74c9b21be0578e2d15272f7bac0c550961fb858c398d46a65e73c47207b7",
+      "contentHash": "f05b8d58c2b83f8d757f3c6bfd432ee375bb735d7d171e87c165bd8d85e0165c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/mical-teja/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mical-teja/",
-      "contentHash": "538c585304050027a84b6de15258ff23b187b740415f11fe1bdc100850db2541",
+      "contentHash": "3fb711ffee4f57915c7566ed03df068b59c259e6f589a21eebde2b81dacacf78",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/blaxx/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/blaxx/",
-      "contentHash": "e74708ab31676f27c216a254106bfd56645f7b2854d47fd6763f138fb3c2ce9e",
+      "contentHash": "18360fa3969e63ebab9e997daf7b98591773ecfaee85ea1467f500c40ed99434",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/superblue/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/superblue/",
-      "contentHash": "49d2f81a08440512210f5edaff6185cc5b645f377377886b57b61c7fc57b0e5e",
+      "contentHash": "201ecccd1f4c3901c9dd4faaba00d4d98a3f48e7dc645b3f2300c24a636c1704",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lord-kitchener/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lord-kitchener/",
-      "contentHash": "a7463c40b388cff674031205259a87106282452a930287beb363d24353dd9073",
+      "contentHash": "2eb6e95cdbf00cf8f0a8380c59e98f2c28bbb37016df94782a584424eee05489",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/david-rudder/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/david-rudder/",
-      "contentHash": "309f5c775372916aee95d636986f2dda3b625b7897f6c1412371339bd4c53e83",
+      "contentHash": "24e8d2060d5434e4758980be435e952fbbf09e7a72b417564e20bf3a0d318691",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/denyse-plummer/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denyse-plummer/",
-      "contentHash": "90af7c15bb03960a4a939cd1f218469d75bd71c84a1853c4979d7e249dd64f2d",
+      "contentHash": "48dcaa9926d74ecfadb29b4caec44ec3f020143914f8a6d7015f69f1c5f3f41b",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/farmer-nappy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/farmer-nappy/",
-      "contentHash": "4ac7e13c6101af5628ca8fb16df653db13a4c29cc93efc3f7f1e0f85b463467c",
+      "contentHash": "b12b36db9bd9bb925934742851f2e6edb144e9906a7d7be015d9368e25819c94",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/salty/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/salty/",
-      "contentHash": "197885cf7f3fec306aae18a292cf319964b7fbc1b3216b5a902b7af3aab5e484",
+      "contentHash": "9f5b03e07be989e4515e7706c1234c0cfaa6c9bd4277a72976e2e6528f1da53a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/lady-lava/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lady-lava/",
-      "contentHash": "ada16c025806222c9a613c4c6eee4d58d2ba15a466de03502b081eaa05e75ca9",
+      "contentHash": "2a296b621a6ab6db01619bf1425ee9911d94ef5b8c4869131cbea233f27c15b2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/jus-now/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jus-now/",
-      "contentHash": "b3563efaf9f68adc7c84102e89cf4e5e6897b43d6f31dd55b6f3291141a69201",
+      "contentHash": "627533db8ac8c1a436c8c0c24f4398c699da0c782229d9866320459ecf431173",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/gbm-nutron/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/gbm-nutron/",
-      "contentHash": "6fe9e8ed1e284775ac026be2c2d7e21c697684e338c7e7a8beb01bb807ad4825",
+      "contentHash": "d32ade58e2da68d5b38fb8db9d5248c28ead25b5cfc372ba2174016f0ff8d8fb",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/sekon-sta/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/sekon-sta/",
-      "contentHash": "f9d871e5266f0f4b073e47e6bdae99eb1bf88920ae6669aa4989a23e4b86e638",
+      "contentHash": "0981be630e72768d742e80b5cfe9df7ee8e4521ddb0b0839247485c8e1468a68",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/nessa-preppy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nessa-preppy/",
-      "contentHash": "4b0c1af9af52aa74e260c801574d1b4cf712d115ee4802fdf0aec0760149958b",
+      "contentHash": "510258ec78386ea95899f3b30f448ceb3df9db6c260452fe1c640c10a87d0f81",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/drupatee/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/drupatee/",
-      "contentHash": "42b0e4e6d9a2bbdd9861137ffaa0ca66b47feb65514d1d808d0250be6d5048c2",
+      "contentHash": "7548f018da95f730b4c47feb5a80a0876e6722c3b39d1fd32eb8aabdfe72d3a3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/ravi-b/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ravi-b/",
-      "contentHash": "9ade0fcf344d1d35a79953a31c19c790b252697dee589e5a712010f913bb44fe",
+      "contentHash": "ac2e8ffeaaeaaac35ef62946be9bab3dcd6c62f0eaeb6c13be9896a754fc3b34",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/raymond-ramnarine/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/raymond-ramnarine/",
-      "contentHash": "64ea1dc70095ab12ef4e2d9e68d6079799c6f7d26bd09a4e56f2786140a82d36",
+      "contentHash": "4704e0a0273c21e2b5b558e4cdbcd92cb1448e4847615e2ece25870df24e2eb5",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/bouyon/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/bouyon/",
-      "contentHash": "0cfce8b57a5140f41fb9693bb58b6bc4af4ee095cbead48f7b7f29dbf3997a7f",
+      "contentHash": "b0a328f805ad0e5a5496f546cd6a84e68a688ebe89f8f8e512fd234fbb75a08d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/soca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/soca/",
-      "contentHash": "a2d784091b787ee6020a4e61b13a09ee6dfca30e80216cdbdf2604a27c00a5e3",
+      "contentHash": "1385bd1932a206a27b0c2456e5b270270e4196e4c21ca3b1480f00dbf3e22ea3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/genres/zouk/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/zouk/",
-      "contentHash": "20795eca1af786664b74a225c31ebfe6b1b5ddd33e34dc84c0ddb7be1a48ede4",
+      "contentHash": "2c872d6ef0c08fc2b5d7e1013f65293a478b19b7e64991c480c5f57f210a0ebc",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/about/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/about/",
-      "contentHash": "a14e01f2c1b8aad58c767c88bb4a24b995976a04ede438310fe9991c2b42da01",
+      "contentHash": "e8e5981e70e99292d69995c58fe5684304f25af1b4c57f3be335295840581ecf",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/credits/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/credits/",
-      "contentHash": "4547ee6f24c6ea2b3e711b4cb44bcc6715fd2621c01ddb32244876e79e6e691d",
+      "contentHash": "ebbc7a6704b8ff8d8278128531e04316d61a403dcc92bd2538f493c5c07e9c94",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/privacy/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/privacy/",
-      "contentHash": "314758893613c2dd688bb1bfd18f75da64ef4fbf79efad02afb9ae65536b984b",
+      "contentHash": "91d4f54b7641cc137d6e0301abbbae0f6ff5ddd3ace36f87e9651544f1f32686",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/404.html": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/404.html",
-      "contentHash": "3bf1d85fc10c71eba83c3728d3052aa9665d681c58ff7f315c4ca8e2228590f2",
+      "contentHash": "43beb0440f178ce3526ae585a9120057c0993e392d29f51b81b8ee90dc6b92c3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     }
   },
   "scaleCatalog": {
-    "cohorts": 11,
-    "currentUniquePages": 128,
+    "cohorts": 12,
+    "currentUniquePages": 131,
     "acceptedProductionPages": 0
   },
-  "scalePageCount": 128,
-  "structuredAlbumTrackObservations": 1359,
+  "scalePageCount": 131,
+  "structuredAlbumTrackObservations": 1390,
   "structuredLegacyTrackObservations": 85,
   "genreGuideCount": 6,
-  "musicGuideCount": 55,
+  "musicGuideCount": 65,
   "musicGuideSnapshots": [
     {
       "id": "music-preview-001",
@@ -2174,12 +2278,16 @@
     {
       "id": "music-preview-005",
       "manifestSha256": "338957593ab612fc7300b1c8586887d11ecd12a5df0a584cb4db7b0fdd2b062c"
+    },
+    {
+      "id": "music-preview-006",
+      "manifestSha256": "4631dd13dc55950fd8abbbcbdf140a7884e58a2c8d4473bc9414d246cec2d7a5"
     }
   ],
   "releaseDirectory": {
-    "releaseGuides": 88,
+    "releaseGuides": 91,
     "legacyGuides": 8,
-    "scaleGuides": 80,
+    "scaleGuides": 83,
     "newRoutes": 0,
     "acceptedProductionPages": 0
   },
