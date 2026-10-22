@@ -1,0 +1,184 @@
+{
+  "origin": "https://epikdomain.github.io/bouyonsoca-pages",
+  "deploymentOrigin": "https://epikdomain.github.io",
+  "basePath": "/bouyonsoca-pages",
+  "outputDir": "dist-github",
+  "siteMode": "preview",
+  "canonicalOrigin": "https://bouyonsoca.com",
+  "pages": [
+    "/",
+    "/artists/",
+    "/artists/asa-bantan/",
+    "/artists/wck/",
+    "/artists/triple-kay/",
+    "/artists/trilla-g/",
+    "/artists/machel-montano/",
+    "/artists/kes/",
+    "/artists/bunji-garlin/",
+    "/artists/patrice-roberts/",
+    "/artists/kassav/",
+    "/artists/jocelyne-beroard/",
+    "/artists/k-reen/",
+    "/artists/fanny-j/",
+    "/genres/bouyon/",
+    "/genres/soca/",
+    "/genres/zouk/",
+    "/about/",
+    "/credits/",
+    "/privacy/"
+  ],
+  "routeMetadata": {
+    "/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/",
+      "contentHash": "a47720951bd8491744a24d5f2354ff7b93133ff3c714946f6bd500c917238986",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/",
+      "contentHash": "7c56abbb13be201cd0e2fc28407644f37b54f83ea1bd53713ee8508148abe1f3",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/asa-bantan/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/asa-bantan/",
+      "contentHash": "1675d94c914aca285df071826e342050edb6d4d308ae7ae88ccbb39efd84a8f5",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/wck/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/wck/",
+      "contentHash": "0bd764358ccf7be35c233e2ef0bd7db297eb164e842cf8f751db2a2c12eddb96",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/triple-kay/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/triple-kay/",
+      "contentHash": "feb34a44d48267cd9b5c1b6f38f8dcf2a361327af330eddcae25b33422ea6855",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/trilla-g/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/trilla-g/",
+      "contentHash": "70ee62a1352683378edfbe416ebe6dd57531ad119169cfd96c2b3f8c4962d8ce",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/machel-montano/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/machel-montano/",
+      "contentHash": "119784e9cd7bde4e38ef1720e74639d4917f5351eab5183137d0de3499859388",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/kes/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kes/",
+      "contentHash": "601ad6a96d9e94fcbbeab8d46d721f99084aae2bd5b6a2891f556444eacd6697",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/bunji-garlin/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/bunji-garlin/",
+      "contentHash": "be8939393fe934e0c03f9e80c3d11b9991818da3047d773f786b6c24147f5f94",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/patrice-roberts/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/patrice-roberts/",
+      "contentHash": "9adf30a7e70625f9c37807e5bafa74211497629f48a8acff5553b699094edd34",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/kassav/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kassav/",
+      "contentHash": "556bd77d445bb23d8aadf398277d88476c38b8b843b92b3d364bf786644980c2",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/jocelyne-beroard/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jocelyne-beroard/",
+      "contentHash": "4c530a059e4552969ac91226947b933ed0b61466c924f44ea3c5fefecb9c27f8",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/k-reen/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/k-reen/",
+      "contentHash": "0067e4bda5683a7b54f4778a67fb5122a7ce80803614c1ba8033fb4e8a533ed7",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/fanny-j/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fanny-j/",
+      "contentHash": "ec622faf2c9bbb447a9a6ac7bf5cfca48fd923f19b69b06660fc57579425cbe1",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/genres/bouyon/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/bouyon/",
+      "contentHash": "03fa816629a515863f8182ff8703677f2396acb4fe7de2ed41868e73ee0458ed",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/genres/soca/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/soca/",
+      "contentHash": "a047a0fa2f0321576320ebea01f2bc2bd7c6871fba22798c654cd64086514eb1",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/genres/zouk/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/zouk/",
+      "contentHash": "05c0143b57aed0f707909918d21ec09238741418510863cfba5dbea57e84200b",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/about/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/about/",
+      "contentHash": "a34a2852cc2a4ad57d19cd1e213b9cb554f9891437de173c41381d10f5bc1696",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/credits/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/credits/",
+      "contentHash": "463683b8e93fafef92402d61ceab7925847d59783a58ec1133fa5c27cbf15d45",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/privacy/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/privacy/",
+      "contentHash": "afa12214de415e4a3f032a1fdd2c6500e9aeb4b7a9b1dbbd53f99cd60be0f5f0",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/404.html": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/404.html",
+      "contentHash": "022e90cd2dc85894b90be8f059b010dcc99a8de524367c26773ad896c7ea1c3a",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    }
+  },
+  "artists": 12,
+  "tracks": 24,
+  "css": "/bouyonsoca-pages/assets/site.e0294a432a.css",
+  "js": "/bouyonsoca-pages/assets/site.6d72da3265.js",
+  "productionPagesCounted": 0
+}
