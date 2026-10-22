@@ -117,6 +117,19 @@
     "/artists/signal-band/catalog/",
     "/artists/swappi/catalog/",
     "/artists/teddyson-john/catalog/",
+    "/releases/carlyn-xp/an-xplicious-christmas-1670206467/",
+    "/releases/colton-t/impossible-1461033687/",
+    "/artists/david-rudder/catalog/",
+    "/artists/denise-belfon/catalog/",
+    "/artists/denyse-plummer/catalog/",
+    "/artists/iwer-george/catalog/",
+    "/artists/lord-kitchener/catalog/",
+    "/artists/mical-teja/catalog/",
+    "/artists/ricardo-drue/catalog/",
+    "/artists/shal-marshall/catalog/",
+    "/releases/signal-band/signature-1649860840/",
+    "/artists/superblue/catalog/",
+    "/releases/teddyson-john/love-passion-music-671961146/",
     "/genres/cadence-lypso/",
     "/genres/calypso/",
     "/genres/chutney-soca/",
@@ -220,6 +233,16 @@
     "/artists/motto/",
     "/artists/teddyson-john/",
     "/artists/swappi/",
+    "/artists/denise-belfon/",
+    "/artists/shal-marshall/",
+    "/artists/iwer-george/",
+    "/artists/ricardo-drue/",
+    "/artists/mical-teja/",
+    "/artists/blaxx/",
+    "/artists/superblue/",
+    "/artists/lord-kitchener/",
+    "/artists/david-rudder/",
+    "/artists/denyse-plummer/",
     "/genres/bouyon/",
     "/genres/soca/",
     "/genres/zouk/",
@@ -286,7 +309,7 @@
     },
     "/releases/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/",
-      "contentHash": "056c7e35138b2090f190863c872def72f316b180eb4fa7601baf05518ec1620c",
+      "contentHash": "c33b349ed0e065eb184c84c186cb4217ed6f6d827c06ee92639d5fcea7439aca",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1005,6 +1028,97 @@
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
+    "/releases/carlyn-xp/an-xplicious-christmas-1670206467/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/carlyn-xp/an-xplicious-christmas-1670206467/",
+      "contentHash": "17fb5ff737daaaae6a35f8fcccd19f2c2eda2130d6b639dc2ece0194009777d3",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/colton-t/impossible-1461033687/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/colton-t/impossible-1461033687/",
+      "contentHash": "ec6c1d969e95694c47a08809eb4c6d8e23c434820b6fd791d2864b42aea685d1",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/david-rudder/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/david-rudder/catalog/",
+      "contentHash": "3339dc145a93ac9ae976f1d68847021465f9908fad32e644db9763571a654abd",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/denise-belfon/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denise-belfon/catalog/",
+      "contentHash": "719c3a6b2d242ffd9bc1d0097502db8bc88e17ec3e5a6e999cbd3176220992d9",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/denyse-plummer/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denyse-plummer/catalog/",
+      "contentHash": "769a513c57e0feee685a2c77295094f871e109e9e073aa8f4e2f9926960fa321",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/iwer-george/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/iwer-george/catalog/",
+      "contentHash": "d3d8eadebeb4bee1a54e48c478d8cff04b1ebdba49ffd44efdb1d43b6ca78e1b",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/lord-kitchener/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lord-kitchener/catalog/",
+      "contentHash": "98b60485c277172208729a9cf0e68e35d51f5ae84234b01af5a8b78966257efc",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/mical-teja/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mical-teja/catalog/",
+      "contentHash": "e43090944508dc4ed2f2d5e1ff7ecfdab1767e68383bb626ba44212f7f999003",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/ricardo-drue/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ricardo-drue/catalog/",
+      "contentHash": "caed5a25a2318b58b8f27506176652b71982f8707e5a0ff7d91ea997ece090c5",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/shal-marshall/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/shal-marshall/catalog/",
+      "contentHash": "b9e4e7ea3ec10563759323e23328a9e06273104c8bc29257bb032f669ae7cc81",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/signal-band/signature-1649860840/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/signal-band/signature-1649860840/",
+      "contentHash": "26019e3b7cf4a8de06d4d7f7c1e70f66714d47d4e97c2f310642b63d93ca7bf4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/superblue/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/superblue/catalog/",
+      "contentHash": "7f9843710cc0186b933a245ab6ca2d0d3d68ce7a1da835567b0716d4ebbcbb05",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/teddyson-john/love-passion-music-671961146/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/teddyson-john/love-passion-music-671961146/",
+      "contentHash": "2b367dd4a5f3435a9c1e2eeb82437d0fe69a48bdddc738b58aabbc7d61d03e04",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
     "/genres/cadence-lypso/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/cadence-lypso/",
       "contentHash": "dd8c4680de749c118a1a316671832d8f022fd05e5aa5cdea568891ca23c22ce7",
@@ -1441,14 +1555,14 @@
     },
     "/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/",
-      "contentHash": "a14f5a719bf6bbe08980dd7f994cf6d0267d31d72f9e8ca2e13ea4beee410b85",
+      "contentHash": "3f384d72ccaf5bc32839d53d99fbb6f102de099b538a0c0ab4b111a64a747b01",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/",
-      "contentHash": "409070eb4fc280569ff40d59c705d3a780d11d618b1d50fce891a4737c4eefbe",
+      "contentHash": "04ca303ff849fa0a87083a0210abc3b975b5cd63952e71cbed4c77757f9f680f",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1726,6 +1840,76 @@
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
+    "/artists/denise-belfon/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denise-belfon/",
+      "contentHash": "bcbdfba8ac321f74201a9ae958f6a9427696ade26cac7cf0c82afed021ab3ca9",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/shal-marshall/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/shal-marshall/",
+      "contentHash": "ac273ab686bda84edf415a7ec11d98cac76d59b80e07c0dbbf4f4c6019a3a0f4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/iwer-george/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/iwer-george/",
+      "contentHash": "0d8e914066cf12172758ec3134784165a1ce83ac321b01a97261940587d3effa",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/ricardo-drue/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ricardo-drue/",
+      "contentHash": "12ba74c9b21be0578e2d15272f7bac0c550961fb858c398d46a65e73c47207b7",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/mical-teja/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mical-teja/",
+      "contentHash": "538c585304050027a84b6de15258ff23b187b740415f11fe1bdc100850db2541",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/blaxx/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/blaxx/",
+      "contentHash": "e74708ab31676f27c216a254106bfd56645f7b2854d47fd6763f138fb3c2ce9e",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/superblue/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/superblue/",
+      "contentHash": "49d2f81a08440512210f5edaff6185cc5b645f377377886b57b61c7fc57b0e5e",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/lord-kitchener/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lord-kitchener/",
+      "contentHash": "a7463c40b388cff674031205259a87106282452a930287beb363d24353dd9073",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/david-rudder/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/david-rudder/",
+      "contentHash": "309f5c775372916aee95d636986f2dda3b625b7897f6c1412371339bd4c53e83",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/denyse-plummer/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/denyse-plummer/",
+      "contentHash": "90af7c15bb03960a4a939cd1f218469d75bd71c84a1853c4979d7e249dd64f2d",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
     "/genres/bouyon/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/bouyon/",
       "contentHash": "0cfce8b57a5140f41fb9693bb58b6bc4af4ee095cbead48f7b7f29dbf3997a7f",
@@ -1735,7 +1919,7 @@
     },
     "/genres/soca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/soca/",
-      "contentHash": "dab4812847caa38a76d9bd364839cb8305f56ae3570c1add42fbafeaea847446",
+      "contentHash": "d21106f0f87990ef642da848f68924ae85f873358eaffabe5d88cae57038f73a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1749,14 +1933,14 @@
     },
     "/about/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/about/",
-      "contentHash": "e1684505c1940b2576123fbb799380c51c047ea891ca0a693318fc0ad208d1bd",
+      "contentHash": "4694e1f59cd2deecf6e69fdad3a347ff3574d344c6ebc4413c968481a4677018",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/credits/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/credits/",
-      "contentHash": "da69dc687f9cfecdcd1abd7e78bdfcec45797274cb1223c68b7745d9c30f5d08",
+      "contentHash": "9dc5bee7a432afae035d0bbcbff000ddd7906540298ba0f7df89a4daed91b298",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1777,12 +1961,12 @@
     }
   },
   "scaleCatalog": {
-    "cohorts": 9,
-    "currentUniquePages": 102,
+    "cohorts": 10,
+    "currentUniquePages": 115,
     "acceptedProductionPages": 0
   },
-  "scalePageCount": 102,
-  "structuredAlbumTrackObservations": 1259,
+  "scalePageCount": 115,
+  "structuredAlbumTrackObservations": 1294,
   "structuredLegacyTrackObservations": 85,
   "genreGuideCount": 6,
   "musicGuideCount": 55,
@@ -1809,16 +1993,16 @@
     }
   ],
   "releaseDirectory": {
-    "releaseGuides": 80,
+    "releaseGuides": 84,
     "legacyGuides": 8,
-    "scaleGuides": 72,
+    "scaleGuides": 76,
     "newRoutes": 0,
     "acceptedProductionPages": 0
   },
   "releaseEditions": 8,
   "releaseTracklistEntries": 85,
-  "artists": 39,
-  "tracks": 78,
+  "artists": 49,
+  "tracks": 98,
   "css": "/bouyonsoca-pages/assets/site.839f4ebf8c.css",
   "js": "/bouyonsoca-pages/assets/site.6d72da3265.js",
   "productionPagesCounted": 0
