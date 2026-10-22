@@ -163,5 +163,18 @@
     "height": 855,
     "bytes": 201242,
     "modifications": "Resized and converted to WebP"
+  },
+  {
+    "slug": "calypso-rose",
+    "path": "/assets/artists/calypso-rose.svg",
+    "sourceUrl": "/assets/artists/calypso-rose.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 771,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Calypso Rose — original typographic artist card"
   }
 ]
