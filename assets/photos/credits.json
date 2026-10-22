@@ -202,5 +202,57 @@
     "bytes": 773,
     "modifications": "Original vector design; not an artist photograph or release cover",
     "caption": "Mighty Sparrow — original typographic artist card"
+  },
+  {
+    "slug": "lord-invader",
+    "path": "/assets/artists/lord-invader.svg",
+    "sourceUrl": "/assets/artists/lord-invader.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 771,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Lord Invader — original typographic artist card"
+  },
+  {
+    "slug": "andy-narell",
+    "path": "/assets/artists/andy-narell.svg",
+    "sourceUrl": "/assets/artists/andy-narell.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 770,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Andy Narell — original typographic artist card"
+  },
+  {
+    "slug": "olatunji-yearwood",
+    "path": "/assets/artists/olatunji-yearwood.svg",
+    "sourceUrl": "/assets/artists/olatunji-yearwood.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 776,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Olatunji Yearwood — original typographic artist card"
+  },
+  {
+    "slug": "litleboy",
+    "path": "/assets/artists/litleboy.svg",
+    "sourceUrl": "/assets/artists/litleboy.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 774,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Litleboy — original typographic artist card"
   }
 ]
