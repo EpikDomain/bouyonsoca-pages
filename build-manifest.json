@@ -150,6 +150,12 @@
     "/artists/keros-n/catalog/",
     "/artists/riddla/catalog/",
     "/artists/tina-ly/catalog/",
+    "/releases/admiral-t/maestro-1792828768/",
+    "/releases/admiral-t/mozaika-1484169115/",
+    "/releases/keros-n/bipolaire-1281047739/",
+    "/releases/keros-n/grand-cru-1775727599/",
+    "/releases/riddla/ki-sos-ou-vle-1756555269/",
+    "/releases/tina-ly/couleurs-du-monde-collector-343226108/",
     "/genres/cadence-lypso/",
     "/genres/calypso/",
     "/genres/chutney-soca/",
@@ -359,7 +365,7 @@
     },
     "/releases/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/",
-      "contentHash": "b62b058b2522d76f16f3616c0938ccf7a19d19c56e52aebe8143d4152ef04ff9",
+      "contentHash": "082a4d8a5c0adc1aa173ed4cd08c59dd294eb2e8d79bc88b0799464d058df336",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1305,6 +1311,48 @@
     "/artists/tina-ly/catalog/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/tina-ly/catalog/",
       "contentHash": "685dc9c918e3999437d607c1dbb38b89e3456aef5c0140c57a350149d894cea7",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/admiral-t/maestro-1792828768/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/admiral-t/maestro-1792828768/",
+      "contentHash": "abf727d3420b3585827e95003d16f718c8407f3c49e44435823b7ac53155d8b5",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/admiral-t/mozaika-1484169115/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/admiral-t/mozaika-1484169115/",
+      "contentHash": "d8022d7b9dbf625a1b78b761338c62d2e91d3b7fd17779bb6eca955ab838c59f",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/keros-n/bipolaire-1281047739/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/keros-n/bipolaire-1281047739/",
+      "contentHash": "bf5e3ecbf24820854edad67e3e005468cd5cb09747639a921664ea33d1cd4378",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/keros-n/grand-cru-1775727599/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/keros-n/grand-cru-1775727599/",
+      "contentHash": "dea4e1868d1975bc16ab8500aab6f811939b0c94d3b461adb46a89062323ce7c",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/riddla/ki-sos-ou-vle-1756555269/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/riddla/ki-sos-ou-vle-1756555269/",
+      "contentHash": "870c2830c6c8b51f27208ccac27ac38b7df6f1b66980a42e1c3f44a7ecd8b920",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/tina-ly/couleurs-du-monde-collector-343226108/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/tina-ly/couleurs-du-monde-collector-343226108/",
+      "contentHash": "70e4f1b75f89905f19395729ec597a025d5cb68e0eecb836029d230c4a54bff2",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -2361,12 +2409,12 @@
     }
   },
   "scaleCatalog": {
-    "cohorts": 13,
-    "currentUniquePages": 135,
+    "cohorts": 14,
+    "currentUniquePages": 141,
     "acceptedProductionPages": 0
   },
-  "scalePageCount": 135,
-  "structuredAlbumTrackObservations": 1390,
+  "scalePageCount": 141,
+  "structuredAlbumTrackObservations": 1497,
   "structuredLegacyTrackObservations": 85,
   "genreGuideCount": 6,
   "musicGuideCount": 65,
@@ -2397,9 +2445,9 @@
     }
   ],
   "releaseDirectory": {
-    "releaseGuides": 91,
+    "releaseGuides": 97,
     "legacyGuides": 8,
-    "scaleGuides": 83,
+    "scaleGuides": 89,
     "newRoutes": 0,
     "acceptedProductionPages": 0
   },
