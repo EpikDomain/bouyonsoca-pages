@@ -130,6 +130,19 @@
     "/releases/signal-band/signature-1649860840/",
     "/artists/superblue/catalog/",
     "/releases/teddyson-john/love-passion-music-671961146/",
+    "/releases/david-rudder/kaiso-gone-dread-the-words-and-music-of-black-stalin-6803811604/",
+    "/artists/drupatee/catalog/",
+    "/artists/farmer-nappy/catalog/",
+    "/artists/gbm-nutron/catalog/",
+    "/artists/jus-now/catalog/",
+    "/artists/lady-lava/catalog/",
+    "/releases/lord-kitchener/8-1491026727/",
+    "/releases/lord-kitchener/london-is-the-place-for-me-460529975/",
+    "/artists/nessa-preppy/catalog/",
+    "/artists/ravi-b/catalog/",
+    "/artists/raymond-ramnarine/catalog/",
+    "/artists/sekon-sta/catalog/",
+    "/releases/shal-marshall/ishal-1642133413/",
     "/genres/cadence-lypso/",
     "/genres/calypso/",
     "/genres/chutney-soca/",
@@ -243,6 +256,16 @@
     "/artists/lord-kitchener/",
     "/artists/david-rudder/",
     "/artists/denyse-plummer/",
+    "/artists/farmer-nappy/",
+    "/artists/salty/",
+    "/artists/lady-lava/",
+    "/artists/jus-now/",
+    "/artists/gbm-nutron/",
+    "/artists/sekon-sta/",
+    "/artists/nessa-preppy/",
+    "/artists/drupatee/",
+    "/artists/ravi-b/",
+    "/artists/raymond-ramnarine/",
     "/genres/bouyon/",
     "/genres/soca/",
     "/genres/zouk/",
@@ -309,7 +332,7 @@
     },
     "/releases/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/",
-      "contentHash": "c33b349ed0e065eb184c84c186cb4217ed6f6d827c06ee92639d5fcea7439aca",
+      "contentHash": "f261259a64be16a3053aec1498cbd75319dee9e09697675897e122bdaa832745",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1119,6 +1142,97 @@
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
+    "/releases/david-rudder/kaiso-gone-dread-the-words-and-music-of-black-stalin-6803811604/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/david-rudder/kaiso-gone-dread-the-words-and-music-of-black-stalin-6803811604/",
+      "contentHash": "db01b5c5fea04ab9b97c92141286e211802c4ef4cbfb4b0aea1267bead1e068a",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/drupatee/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/drupatee/catalog/",
+      "contentHash": "f546deb2dc180d6ff16d4affb68f34e3a5935c9d2a3a4db7e002bbe239ee88fd",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/farmer-nappy/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/farmer-nappy/catalog/",
+      "contentHash": "827b84bd5a9e3693d44129b87bf98d15c6117a0439916871233a9329655a1a37",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/gbm-nutron/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/gbm-nutron/catalog/",
+      "contentHash": "11d58ee00283033d4c3cc6237cc781b2453c09309abcb4b64850fa0c499f2a09",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/jus-now/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jus-now/catalog/",
+      "contentHash": "48ec59d74e37eac4184eee107e8515511dcca68f11fa70034fa67d9e484f3c2d",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/lady-lava/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lady-lava/catalog/",
+      "contentHash": "c16bd0aa4d1a03dd140a397dd032a82d3c1e4abb2584e2e40dea15f2039cd9fe",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/lord-kitchener/8-1491026727/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/lord-kitchener/8-1491026727/",
+      "contentHash": "b945d155628637a637962c570387d34b0692933a6208f3488c9e5ad6d100ae52",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/lord-kitchener/london-is-the-place-for-me-460529975/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/lord-kitchener/london-is-the-place-for-me-460529975/",
+      "contentHash": "63bd344fe0fb74795f30b3f154ed8b15a4ab8252c83941adaad397b01ce2fa94",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/nessa-preppy/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nessa-preppy/catalog/",
+      "contentHash": "169b33871d97faac48e1acbfc197b3eea2d7bf3d9b18428bb60a01f0f46ae1e4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/ravi-b/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ravi-b/catalog/",
+      "contentHash": "4bdb35dc8221d62bde1119347de197a65a2e107d493695cac68dce96118e2cab",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/raymond-ramnarine/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/raymond-ramnarine/catalog/",
+      "contentHash": "f17c5da3f8b5ef581335e7ee1f7fc5aeb5937b2ed4b9b9a3ad46bb205e8f54d5",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/sekon-sta/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/sekon-sta/catalog/",
+      "contentHash": "bc7b21c5908cc652fe86b8aa4ab28d8d555edfa01e0e24ae663c92c1b45eda7b",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/shal-marshall/ishal-1642133413/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/shal-marshall/ishal-1642133413/",
+      "contentHash": "48c644af2d0d613078cc02ab7308cf13acc3180df84e0ee0df3152cace9a2c62",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
     "/genres/cadence-lypso/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/cadence-lypso/",
       "contentHash": "dd8c4680de749c118a1a316671832d8f022fd05e5aa5cdea568891ca23c22ce7",
@@ -1555,14 +1669,14 @@
     },
     "/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/",
-      "contentHash": "3f384d72ccaf5bc32839d53d99fbb6f102de099b538a0c0ab4b111a64a747b01",
+      "contentHash": "120f347f532500e34d768f055e6b3f1776c5533f3ec52d23b90d33512225640c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/",
-      "contentHash": "04ca303ff849fa0a87083a0210abc3b975b5cd63952e71cbed4c77757f9f680f",
+      "contentHash": "ded115d98d17873622f280d529c518fb4f2906051f952e1a63d3781f6561f406",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1910,6 +2024,76 @@
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
+    "/artists/farmer-nappy/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/farmer-nappy/",
+      "contentHash": "4ac7e13c6101af5628ca8fb16df653db13a4c29cc93efc3f7f1e0f85b463467c",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/salty/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/salty/",
+      "contentHash": "197885cf7f3fec306aae18a292cf319964b7fbc1b3216b5a902b7af3aab5e484",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/lady-lava/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/lady-lava/",
+      "contentHash": "ada16c025806222c9a613c4c6eee4d58d2ba15a466de03502b081eaa05e75ca9",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/jus-now/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jus-now/",
+      "contentHash": "b3563efaf9f68adc7c84102e89cf4e5e6897b43d6f31dd55b6f3291141a69201",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/gbm-nutron/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/gbm-nutron/",
+      "contentHash": "6fe9e8ed1e284775ac026be2c2d7e21c697684e338c7e7a8beb01bb807ad4825",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/sekon-sta/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/sekon-sta/",
+      "contentHash": "f9d871e5266f0f4b073e47e6bdae99eb1bf88920ae6669aa4989a23e4b86e638",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/nessa-preppy/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/nessa-preppy/",
+      "contentHash": "4b0c1af9af52aa74e260c801574d1b4cf712d115ee4802fdf0aec0760149958b",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/drupatee/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/drupatee/",
+      "contentHash": "42b0e4e6d9a2bbdd9861137ffaa0ca66b47feb65514d1d808d0250be6d5048c2",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/ravi-b/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/ravi-b/",
+      "contentHash": "9ade0fcf344d1d35a79953a31c19c790b252697dee589e5a712010f913bb44fe",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/raymond-ramnarine/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/raymond-ramnarine/",
+      "contentHash": "64ea1dc70095ab12ef4e2d9e68d6079799c6f7d26bd09a4e56f2786140a82d36",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
     "/genres/bouyon/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/bouyon/",
       "contentHash": "0cfce8b57a5140f41fb9693bb58b6bc4af4ee095cbead48f7b7f29dbf3997a7f",
@@ -1919,7 +2103,7 @@
     },
     "/genres/soca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/soca/",
-      "contentHash": "d21106f0f87990ef642da848f68924ae85f873358eaffabe5d88cae57038f73a",
+      "contentHash": "a2d784091b787ee6020a4e61b13a09ee6dfca30e80216cdbdf2604a27c00a5e3",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1933,14 +2117,14 @@
     },
     "/about/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/about/",
-      "contentHash": "4694e1f59cd2deecf6e69fdad3a347ff3574d344c6ebc4413c968481a4677018",
+      "contentHash": "a14e01f2c1b8aad58c767c88bb4a24b995976a04ede438310fe9991c2b42da01",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/credits/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/credits/",
-      "contentHash": "9dc5bee7a432afae035d0bbcbff000ddd7906540298ba0f7df89a4daed91b298",
+      "contentHash": "4547ee6f24c6ea2b3e711b4cb44bcc6715fd2621c01ddb32244876e79e6e691d",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -1961,12 +2145,12 @@
     }
   },
   "scaleCatalog": {
-    "cohorts": 10,
-    "currentUniquePages": 115,
+    "cohorts": 11,
+    "currentUniquePages": 128,
     "acceptedProductionPages": 0
   },
-  "scalePageCount": 115,
-  "structuredAlbumTrackObservations": 1294,
+  "scalePageCount": 128,
+  "structuredAlbumTrackObservations": 1359,
   "structuredLegacyTrackObservations": 85,
   "genreGuideCount": 6,
   "musicGuideCount": 55,
@@ -1993,16 +2177,16 @@
     }
   ],
   "releaseDirectory": {
-    "releaseGuides": 84,
+    "releaseGuides": 88,
     "legacyGuides": 8,
-    "scaleGuides": 76,
+    "scaleGuides": 80,
     "newRoutes": 0,
     "acceptedProductionPages": 0
   },
   "releaseEditions": 8,
   "releaseTracklistEntries": 85,
-  "artists": 49,
-  "tracks": 98,
+  "artists": 59,
+  "tracks": 118,
   "css": "/bouyonsoca-pages/assets/site.839f4ebf8c.css",
   "js": "/bouyonsoca-pages/assets/site.6d72da3265.js",
   "productionPagesCounted": 0
