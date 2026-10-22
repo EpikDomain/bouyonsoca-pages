@@ -254,5 +254,57 @@
     "bytes": 774,
     "modifications": "Original vector design; not an artist photograph or release cover",
     "caption": "Litleboy — original typographic artist card"
+  },
+  {
+    "slug": "nadia-batson",
+    "path": "/assets/artists/nadia-batson.svg",
+    "sourceUrl": "/assets/artists/nadia-batson.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 771,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Nadia Batson — original typographic artist card"
+  },
+  {
+    "slug": "destra-garcia",
+    "path": "/assets/artists/destra-garcia.svg",
+    "sourceUrl": "/assets/artists/destra-garcia.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 772,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Destra Garcia — original typographic artist card"
+  },
+  {
+    "slug": "nailah-blackman",
+    "path": "/assets/artists/nailah-blackman.svg",
+    "sourceUrl": "/assets/artists/nailah-blackman.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 774,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Nailah Blackman — original typographic artist card"
+  },
+  {
+    "slug": "voice",
+    "path": "/assets/artists/voice.svg",
+    "sourceUrl": "/assets/artists/voice.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 769,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Voice — original typographic artist card"
   }
 ]
