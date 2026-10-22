@@ -306,5 +306,83 @@
     "bytes": 769,
     "modifications": "Original vector design; not an artist photograph or release cover",
     "caption": "Voice — original typographic artist card"
+  },
+  {
+    "slug": "lyrikal",
+    "path": "/assets/artists/lyrikal.svg",
+    "sourceUrl": "/assets/artists/lyrikal.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 771,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Lyrikal — original typographic artist card"
+  },
+  {
+    "slug": "michele-henderson",
+    "path": "/assets/artists/michele-henderson.svg",
+    "sourceUrl": "/assets/artists/michele-henderson.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 776,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Michele Henderson — original typographic artist card"
+  },
+  {
+    "slug": "skinny-fabulous",
+    "path": "/assets/artists/skinny-fabulous.svg",
+    "sourceUrl": "/assets/artists/skinny-fabulous.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 774,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Skinny Fabulous — original typographic artist card"
+  },
+  {
+    "slug": "alison-hinds",
+    "path": "/assets/artists/alison-hinds.svg",
+    "sourceUrl": "/assets/artists/alison-hinds.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 771,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Alison Hinds — original typographic artist card"
+  },
+  {
+    "slug": "problem-child",
+    "path": "/assets/artists/problem-child.svg",
+    "sourceUrl": "/assets/artists/problem-child.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 772,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Problem Child — original typographic artist card"
+  },
+  {
+    "slug": "edwin-yearwood",
+    "path": "/assets/artists/edwin-yearwood.svg",
+    "sourceUrl": "/assets/artists/edwin-yearwood.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 773,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Edwin Yearwood — original typographic artist card"
   }
 ]
