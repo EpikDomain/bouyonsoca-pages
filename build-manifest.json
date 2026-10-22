@@ -45,6 +45,29 @@
     "/releases/machel-montano/the-book-of-angels-1702737006/",
     "/releases/machel-montano/encore-1874434063/",
     "/releases/machel-montano/monk-evolution-1701175372/",
+    "/artists/bunji-garlin/catalog/",
+    "/releases/bunji-garlin/ispaniard-516428371/",
+    "/releases/bunji-garlin/carnival-contract-riddim-the-road-mixes-1730133277/",
+    "/artists/fanny-j/catalog/",
+    "/releases/fanny-j/vous-les-hommes-980124599/",
+    "/releases/fanny-j/l-effet-papillon-acte-i-chrysalide-6818148519/",
+    "/artists/jocelyne-beroard/catalog/",
+    "/releases/jocelyne-beroard/chawa-live-aux-folies-bergere-1713782340/",
+    "/releases/jocelyne-beroard/milans-1582503313/",
+    "/releases/jocelyne-beroard/siwo-1024433909/",
+    "/artists/k-reen/catalog/",
+    "/releases/k-reen/racines-k-raib-973389038/",
+    "/releases/k-reen/himalaya-506393498/",
+    "/artists/kassav/catalog/",
+    "/releases/kassav/40-ans-1459868556/",
+    "/releases/kassav/live-au-zenith-de-paris-2016-1178920421/",
+    "/releases/kassav/best-of-20eme-anniversaire-1676625206/",
+    "/artists/kes/catalog/",
+    "/releases/kes/man-with-no-door-1729234953/",
+    "/releases/kes/we-home-1525759480/",
+    "/artists/patrice-roberts/catalog/",
+    "/releases/patrice-roberts/blossoming-1800170057/",
+    "/releases/patrice-roberts/like-yuh-self-roadmixes-ep-1675556570/",
     "/genres/calypso/",
     "/genres/dennery-segment/",
     "/",
@@ -62,6 +85,8 @@
     "/artists/k-reen/",
     "/artists/fanny-j/",
     "/artists/calypso-rose/",
+    "/artists/fay-ann-lyons/",
+    "/artists/mighty-sparrow/",
     "/genres/bouyon/",
     "/genres/soca/",
     "/genres/zouk/",
@@ -343,6 +368,167 @@
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
+    "/artists/bunji-garlin/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/bunji-garlin/catalog/",
+      "contentHash": "53ea8dac91bad53c5769230a9844aaf643bd87a1c6b6e1228d537c2382f34d8f",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/bunji-garlin/ispaniard-516428371/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/ispaniard-516428371/",
+      "contentHash": "8cbb72257407e4f48b04a06526a6fabbbd3868f7c3a0eb3088d75618000507fe",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/bunji-garlin/carnival-contract-riddim-the-road-mixes-1730133277/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/bunji-garlin/carnival-contract-riddim-the-road-mixes-1730133277/",
+      "contentHash": "85ce636a5ce809d40ac3de6f5589651355c1ae6a20a1d356eca19fe5713c3101",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/fanny-j/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fanny-j/catalog/",
+      "contentHash": "bceb80a5bb412a30bbc51b5a477338d30dd40019210db6c2786490e61d8c166c",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/fanny-j/vous-les-hommes-980124599/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/vous-les-hommes-980124599/",
+      "contentHash": "b9399cce7d0b052cc0448ff35a7c083b521d0403d1ce075b04025a71e079f95a",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/fanny-j/l-effet-papillon-acte-i-chrysalide-6818148519/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/fanny-j/l-effet-papillon-acte-i-chrysalide-6818148519/",
+      "contentHash": "425f17076b10bceefa31881ba3a023ffb46b90e2685854d4bcf906d2ae2f2bdf",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/jocelyne-beroard/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jocelyne-beroard/catalog/",
+      "contentHash": "8232c941a54a45f04de3776c16ca58d37bb54330ebda4c4b02da395c6dac6e2b",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/jocelyne-beroard/chawa-live-aux-folies-bergere-1713782340/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/chawa-live-aux-folies-bergere-1713782340/",
+      "contentHash": "292e98dd2f85f6a8517d7cb45d88e99944c7276cd02863a717aced74509a2293",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/jocelyne-beroard/milans-1582503313/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/milans-1582503313/",
+      "contentHash": "0401411c42d54b951cedb60180e96127f93ace3898dc2afefa75b0f5d1a4bea1",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/jocelyne-beroard/siwo-1024433909/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/jocelyne-beroard/siwo-1024433909/",
+      "contentHash": "f9cd3c36e54f301fe6be52eae018f508fcacc0d26fc009f92bc2e2a2ca628877",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/k-reen/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/k-reen/catalog/",
+      "contentHash": "cdc1a49777cc4e498a5d4749e0e1b0beb03ec7beee8d3fc62aee16cc707635c4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/k-reen/racines-k-raib-973389038/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/k-reen/racines-k-raib-973389038/",
+      "contentHash": "6898c76001e6b9f7caa8639d951421559d5e22c7c0e1185ca83738ad50dc42fd",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/k-reen/himalaya-506393498/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/k-reen/himalaya-506393498/",
+      "contentHash": "bf60b849792c00cbd920adcb1d0f647cfb489772ea47024b813d2e257baa99af",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/kassav/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kassav/catalog/",
+      "contentHash": "fc86d3ca4ee914a28f5f1947790228618bbb6dab38a0c8fb571c61d68d98da93",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/kassav/40-ans-1459868556/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/40-ans-1459868556/",
+      "contentHash": "d904452da04ffb791ed4b1aab022854a2f7306b5473a48be7378915127313efd",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/kassav/live-au-zenith-de-paris-2016-1178920421/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/live-au-zenith-de-paris-2016-1178920421/",
+      "contentHash": "dd7973859f99c9cd6a591212d737008bfd8da6e34d58817709ef83b5b2703352",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/kassav/best-of-20eme-anniversaire-1676625206/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kassav/best-of-20eme-anniversaire-1676625206/",
+      "contentHash": "73dae186f2715552725367f09bc88fd50b5b32f4e30eeb0642488ae4d8f80a10",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/kes/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kes/catalog/",
+      "contentHash": "37486f684263f49df78af6b96ae33d13e7a27d0ae4f86a0cce51020f84143c12",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/kes/man-with-no-door-1729234953/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/man-with-no-door-1729234953/",
+      "contentHash": "d9439d2e725dda103472d7e49587b686238eaafd30f4b8f4db1b6728ba2acb64",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/kes/we-home-1525759480/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/kes/we-home-1525759480/",
+      "contentHash": "b391cbd6f9e4fa4f076761410d2c583bda59b4e0601af512ef2e6536090ea2d4",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/patrice-roberts/catalog/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/patrice-roberts/catalog/",
+      "contentHash": "1dab66c8ed9ae2a72d1a9ebc133c20794b0a0b99c9d0a1be84217b0748920596",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/patrice-roberts/blossoming-1800170057/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/patrice-roberts/blossoming-1800170057/",
+      "contentHash": "41390f99bd7fc67ba481c0fc71d722dd7ca95da8b107d8da40238924868932b7",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/releases/patrice-roberts/like-yuh-self-roadmixes-ep-1675556570/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/releases/patrice-roberts/like-yuh-self-roadmixes-ep-1675556570/",
+      "contentHash": "7adf4804f291d96c36ee33700c7c45b2ea227b4f6c82278d43ef887449967dfb",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
     "/genres/calypso/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/calypso/",
       "contentHash": "c46333d229f60e4fe94d233f86bb9e01021953f664dba8d22de4c13594cc11fd",
@@ -359,14 +545,14 @@
     },
     "/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/",
-      "contentHash": "f770d0c028325b98b8162ac4813894cca3a4b342b0a0071408a08bef823638e8",
+      "contentHash": "7f951684f5d786ae1551531b65806ae789a25031f05d0a729d73e9ae13ce6f5e",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/",
-      "contentHash": "8ca33e5bf29951f42bd8fe4bc81e9c0726ceb7d05cd932ffb004872eb5da73a9",
+      "contentHash": "30b7f1128f974a0820980861d1da60deeffea4eeae0481fe94eb41cc5a91a389",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -408,56 +594,70 @@
     },
     "/artists/kes/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kes/",
-      "contentHash": "d93f929a36ff49272b2c0c601d78de22d9d139d7458e29a784ca5f8064d62683",
+      "contentHash": "3aed1097e0e96c460e64ebd7375d572136845b30f06b528ee2db481629bb8b7a",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/bunji-garlin/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/bunji-garlin/",
-      "contentHash": "c79bab506e5eda3e6d01c8ac83a36ae04e51b94548a28fc1cec4674303f48f4f",
+      "contentHash": "d4b606be6b1735c945c4b9395a04543c09c25cf45d4b12a5556398e17277f199",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/patrice-roberts/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/patrice-roberts/",
-      "contentHash": "248b1ff6a38afc77a641299a84468efc13d9131a14b0f6a74d7adaaceea759ec",
+      "contentHash": "c35155651f0e61a4ba4636ee662cc23c8a4e16ae0575f33d253515cb84f4b605",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/kassav/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/kassav/",
-      "contentHash": "4045a33fbb66e23ffd4e4627c53b38cca9fbc20287f5f6901b895c66ecb48676",
+      "contentHash": "c67a5d63e0a45992c1976c719bbe2cecf7c91675de230c8f808830f46f25c7d6",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/jocelyne-beroard/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/jocelyne-beroard/",
-      "contentHash": "47c6ade0d7f9e249926ca149acc871ff9c4e6379bf77a88344be868d39f67811",
+      "contentHash": "0daaae89f4d9151ad13920b8ffc8af88c53133c2ec05df9e047f000d636a3418",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/k-reen/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/k-reen/",
-      "contentHash": "bcba55bf8d272f39533bb1286cb8e79f36c5cc8cdd57f9d59e69f5e28463f176",
+      "contentHash": "27ea2e443416cad3f6bd5ff46eb3923cb0b96bf11e06b0081f173d8e8c2c00ca",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/fanny-j/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fanny-j/",
-      "contentHash": "925c5a01c3f27bbacb71309915143d158b8ed4704d64130d7bb26ca113c9bbb0",
+      "contentHash": "5cde8043cedd20f6a054163408203414b24ae98b71f8f32658ec221042992a29",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/artists/calypso-rose/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/calypso-rose/",
-      "contentHash": "542c5e076fbb8255e04c6c2f190945d9bd4e8287fa1c9054cf8b00f53d5d7a52",
+      "contentHash": "ce11c5963880e5960e0b82d93173df36726fbbe5b037b804c0cc9cca7b3e18a9",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/fay-ann-lyons/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/fay-ann-lyons/",
+      "contentHash": "fe39e74c670264d61715df898f1c3435a6768a40f1cb60f84e0d2fff700d019d",
+      "indexable": false,
+      "canonicalTargetVerified": false,
+      "originalUrl": null
+    },
+    "/artists/mighty-sparrow/": {
+      "canonical": "https://epikdomain.github.io/bouyonsoca-pages/artists/mighty-sparrow/",
+      "contentHash": "c09b4c7fead62e447cd51a1cba820d431f236774743f5eb9c892a22e4774572c",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -471,7 +671,7 @@
     },
     "/genres/soca/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/genres/soca/",
-      "contentHash": "48bbe021b97ac32cbbc3d4f345d62abd3871ea198a0e995196d19ac2a4caf369",
+      "contentHash": "d9f02c05f8bb12d691eb0a634d23eb689fb522fd11fbc749bfb9465146685ffe",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -485,14 +685,14 @@
     },
     "/about/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/about/",
-      "contentHash": "3ec3f7585e978018afc8accbaf6fd1cc39aaa3d029840264bcc0c263bdac06ff",
+      "contentHash": "c6057c9d0d0396745ad6e2a7a43628180f6fad9c1d67148f32983909fcff2d23",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
     },
     "/credits/": {
       "canonical": "https://epikdomain.github.io/bouyonsoca-pages/credits/",
-      "contentHash": "06e018d3f4321ec3977c466ff33e4c8f6e25a7e0761c54a2373510ac52ed6839",
+      "contentHash": "b3de088b0b73eff34313066389e7ff2622a1bbef28275e1fac56742f328c3589",
       "indexable": false,
       "canonicalTargetVerified": false,
       "originalUrl": null
@@ -513,16 +713,16 @@
     }
   },
   "scaleCatalog": {
-    "cohorts": 2,
-    "currentUniquePages": 30,
+    "cohorts": 3,
+    "currentUniquePages": 53,
     "acceptedProductionPages": 0
   },
-  "scalePageCount": 30,
+  "scalePageCount": 53,
   "genreGuideCount": 2,
   "releaseEditions": 8,
   "releaseTracklistEntries": 85,
-  "artists": 13,
-  "tracks": 26,
+  "artists": 15,
+  "tracks": 30,
   "css": "/bouyonsoca-pages/assets/site.94d01aab46.css",
   "js": "/bouyonsoca-pages/assets/site.6d72da3265.js",
   "productionPagesCounted": 0

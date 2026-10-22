@@ -176,5 +176,31 @@
     "bytes": 771,
     "modifications": "Original vector design; not an artist photograph or release cover",
     "caption": "Calypso Rose — original typographic artist card"
+  },
+  {
+    "slug": "fay-ann-lyons",
+    "path": "/assets/artists/fay-ann-lyons.svg",
+    "sourceUrl": "/assets/artists/fay-ann-lyons.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 772,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Fay-Ann Lyons — original typographic artist card"
+  },
+  {
+    "slug": "mighty-sparrow",
+    "path": "/assets/artists/mighty-sparrow.svg",
+    "sourceUrl": "/assets/artists/mighty-sparrow.svg",
+    "credit": "BouyonSoca",
+    "license": "Original typography and geometric artwork created for BouyonSoca",
+    "kind": "original-art",
+    "width": 640,
+    "height": 800,
+    "bytes": 773,
+    "modifications": "Original vector design; not an artist photograph or release cover",
+    "caption": "Mighty Sparrow — original typographic artist card"
   }
 ]
